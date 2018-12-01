@@ -1,17 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LATIN - CANAL UNO ECUADOR" tvg-logo="" group-title="AMERICA | LATINO - OTT",LATIN - CANAL UNO ECUADOR
-http://tvservice.pro:80/live/918025609791/yGd4ZBHXZByQlYi/27439.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATIN - ECUADOR TV" tvg-logo="" group-title="AMERICA | LATINO - OTT",LATIN - ECUADOR TV
-http://tvservice.pro:80/live/918025609791/yGd4ZBHXZByQlYi/27438.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATIN - ETC TV ECUADOR" tvg-logo="" group-title="AMERICA | LATINO - OTT",LATIN - ETC TV ECUADOR
-http://tvservice.pro:80/live/918025609791/yGd4ZBHXZByQlYi/27437.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATIN - RTS ECUADOR HD" tvg-logo="" group-title="AMERICA | LATINO - OTT",LATIN - RTS ECUADOR HD
-http://tvservice.pro:80/live/918025609791/yGd4ZBHXZByQlYi/27441.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATIN - TC ECUADOR HD" tvg-logo="" group-title="AMERICA | LATINO - OTT",LATIN - TC ECUADOR HD
-http://tvservice.pro:80/live/918025609791/yGd4ZBHXZByQlYi/27440.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATIN - ECUAVISA" tvg-logo="" group-title="AMERICA | LATINO - OTT",LATIN - ECUAVISA
-http://tvservice.pro:80/live/918025609791/yGd4ZBHXZByQlYi/27445.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATIN - GAMA TV" tvg-logo="" group-title="AMERICA | LATINO - OTT",LATIN - GAMA TV
-http://tvservice.pro:80/live/918025609791/yGd4ZBHXZByQlYi/27442.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATIN - TELEAMAZONAS" tvg-logo="" group-title="AMERICA | LATINO - OTT",LATIN - TELEAMAZONAS
-http://tvservice.pro:80/live/918025609791/yGd4ZBHXZByQlYi/27443.ts
+#EXTINF:-1,LA_SD:TELEAMAZONAS
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10334
+
+##EXTINF:-1,LA_SD:CANAL UNO ECUADOR
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/14361
+
+#EXTINF:-1,LA_SD:EC_ECUADOR TV
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10356
+
+#EXTINF:-1,LA_SD:EC_ECUAVISA
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10352
+
+#EXTINF:-1,LA_SD:EC_ETC TV ECUADOR
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/11130
+
+#EXTINF:-1,LA_SD:EC_GAMATV
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10354
+
+#EXTINF:-1,LA_SD:SUR_Canal Uno TV Ecua
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29331
+
+#EXTINF:-1,LA_SD:SUR_Ecuador TV
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29316
+
+#EXTINF:-1,LA_SD:SUR_Ecuavisa
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29329
+
+#EXTINF:-1,LA_SD:SUR_GamaTV
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29313
+
+#EXTINF:-1,LA_SD:SUR_Teleamazonas
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29325
+
+#EXTINF:-1,LA_SD:Gol TV
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/4542
+
+#EXTINF:-1,ES:_GOL TV HD
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29034
+
+#EXTINF:-1,LA_SD:CNT SPORT
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10375
+
+#EXTINF:-1,LA_SD:CNT SPORTS PPV 2
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10376
+
+#EXTINF:-1,LA_SD:SUR_TC Television
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29265
+
+#EXTINF:-1,LA_SD:TC TELEVISION
+http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10343
