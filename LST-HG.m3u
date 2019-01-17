@@ -1,14 +1,9 @@
 #EXTM3U
-#EXTINF:-1,LA_SD:TELEAMAZONAS
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10334
-
-#EXTINF:0,Teleamazonas
-#EXTGRP:unsorted
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-
-#EXTINF:0,Teleamazonas
-#EXTGRP:unsorted
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS HD (Ec)" tvg-logo="" group-title="ECUADOR",TELEAMAZONAS HD (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56443
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS SD (Ec)" tvg-logo="" group-title="ECUADOR",TELEAMAZONAS SD (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56445
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS SD 2da O (Ec)" tvg-logo="" group-title="ECUADOR",TELEAMAZONAS SD 2da O (Ec)
 
 ##EXTINF:-1,LA_SD:CANAL UNO ECUADOR
 http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/14361
