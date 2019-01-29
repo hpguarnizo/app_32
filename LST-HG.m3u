@@ -1,7 +1,20 @@
-#EXTM3U
-#EXTINF:-1, TELEAMAZONAS
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1,TeleAmozanas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
 
+#EXTINF:-1,Tc Mi canallogo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA SD
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS HD (Ec)" tvg-logo="" group-title="ECUADOR",CNT SPORTS HD (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56463
+
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS PPV 2 (Ec)" tvg-logo="" group-title="ECUADOR",CNT SPORTS PPV 2 (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56461
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS 2da O(Ec)" tvg-logo="" group-title="ECUADOR",DIRECTV SPORTS PLUS 2da O(Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56459
 #EXTINF:-1,****ECUADOR****
 http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/40545
 
@@ -19,18 +32,6 @@ http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56419
 
 #EXTINF:-1,CNT SPORTS 2da O (Ec)
 http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56462
-
-#EXTINF:-1,CNT SPORTS HD (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56463
-
-#EXTINF:-1,CNT SPORTS PPV 2 (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56461
-
-#EXTINF:-1,DIRECTV SPORTS PLUS (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56460
-
-#EXTINF:-1,DIRECTV SPORTS PLUS 2da O(Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56459
 
 #EXTINF:-1,EC: CANAL Uno (Ecuador)
 http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56434
@@ -137,6 +138,9 @@ http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56440
 #EXTINF:-1,TC TV SD (Ec)
 http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56442
 
+#EXTINF:-1,TELEAMAZONAS HD (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56443
+
 #EXTINF:-1,TELEAMAZONAS SD (Ec)
 http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56445
 
@@ -146,90 +150,56 @@ http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56444
 #EXTINF:-1,UCSG (SD) (EC)
 http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56417
 
+#EXTINF:-1, TELEAMAZONAS
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
+#EXTINF:-1,CNT SPORTS HD (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56463
+
+#EXTINF:-1,CNT SPORTS PPV 2 (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56461
+
+#EXTINF:-1,DIRECTV SPORTS PLUS 2da O(Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56459
+
+#EXTINF:-1,ECUADOR TV (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56436
+
+#EXTINF:-1,ECUAVISA HD (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56458
+
+#EXTINF:-1,LA_FHD:RTS ECUADOR
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/54609
+
+#EXTINF:-1,LA_FHD:TC ECUADOR
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/54619
+
+#EXTINF:-1,LA_SD:CANAL UNO ECUADOR
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/54970
+
+#EXTINF:-1,LA_SD:EC_ECUADOR TV
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/55163
+
+#EXTINF:-1,LA_SD:SUR_Ecuador TV
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/54905
+
+#EXTINF:-1,NOTICIA  HD ECUADOR (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56435
+
+#EXTINF:-1,NOTICIA  HD ECUADOR(Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56418
+
+#EXTINF:-1,OROMAR 2da O (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56438
+
+#EXTINF:-1,OROMAR SD(Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56421
+
+#EXTINF:-1,RTS HD (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56450
+
+#EXTINF:-1,RTS HD 2da O (Ec)
+http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56449
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS HD (Ec)" tvg-logo="" group-title="ECUADOR",TELEAMAZONAS HD (Ec)
 http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56443
-#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS SD (Ec)" tvg-logo="" group-title="ECUADOR",TELEAMAZONAS SD (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56445
-#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS SD 2da O (Ec)" tvg-logo="" group-title="ECUADOR",TELEAMAZONAS SD 2da O (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56444
-##EXTINF:-1,LA_SD:CANAL UNO ECUADOR
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/14361
-
-#EXTINF:-1,LA_SD:EC_ECUADOR TV
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10356
-
-#EXTINF:-1,LA_SD:EC_ECUAVISA
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10352
-
-#EXTINF:-1,LA_SD:EC_ETC TV ECUADOR
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/11130
-
-#EXTINF:-1,LA_SD:EC_GAMATV
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10354
-
-#EXTINF:-1,LA_SD:SUR_Canal Uno TV Ecua
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29331
-
-#EXTINF:-1,LA_SD:SUR_Ecuador TV
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29316
-
-#EXTINF:-1,LA_SD:SUR_Ecuavisa
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29329
-
-#EXTINF:-1,LA_SD:SUR_GamaTV
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29313
-
-#EXTINF:-1,LA_SD:SUR_Teleamazonas
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29325
-
-#EXTINF:-1,LA_SD:Gol TV
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/4542
-
-#EXTINF:-1,ES:_GOL TV HD
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29034
-
-#EXTINF:-1,LA_SD:CNT SPORT
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10375
-
-#EXTINF:-1,LA_SD:CNT SPORTS PPV 2
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10376
-
-#EXTINF:-1,LA_SD:SUR_TC Television
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/29265
-
-#EXTINF:-1,LA_SD:TC TELEVISION
-http://wohuogai.com:58000/SD_876yikjBSD86TOILAB/65hbjjt787iun/10343
-
-
- #EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS 2da O (Ec)" tvg-logo="" group-title="ECUADOR",CNT SPORTS 2da O (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56462
-#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS HD (Ec)" tvg-logo="" group-title="ECUADOR",CNT SPORTS HD (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56463
-#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS PPV 2 (Ec)" tvg-logo="" group-title="ECUADOR",CNT SPORTS PPV 2 (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56461
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS (Ec)" tvg-logo="" group-title="ECUADOR",DIRECTV SPORTS PLUS (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56460
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS 2da O(Ec)" tvg-logo="" group-title="ECUADOR",DIRECTV SPORTS PLUS 2da O(Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56459
-#EXTINF:-1 tvg-id="" tvg-name="EC: CANAL Uno (Ecuador)" tvg-logo="" group-title="ECUADOR",EC: CANAL Uno (Ecuador)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56434
-#EXTINF:-1 tvg-id="" tvg-name="EC: ECUADOR TV (Ecuador)" tvg-logo="" group-title="ECUADOR",EC: ECUADOR TV (Ecuador)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56433
-#EXTINF:-1 tvg-id="" tvg-name="EC: ETC TV (Ecuador)" tvg-logo="" group-title="ECUADOR",EC: ETC TV (Ecuador)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56431
-#EXTINF:-1 tvg-id="" tvg-name="EC: GAMA TV (Ecuador)" tvg-logo="" group-title="ECUADOR",EC: GAMA TV (Ecuador)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56430
-#EXTINF:-1 tvg-id="" tvg-name="EC: RTS (Ecuador)" tvg-logo="" group-title="ECUADOR",EC: RTS (Ecuador)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56427
-#EXTINF:-1 tvg-id="" tvg-name="EC: SUR Ecuador TV" tvg-logo="" group-title="ECUADOR",EC: SUR Ecuador TV
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56425
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV (Ec)" tvg-logo="" group-title="ECUADOR",ECUADOR TV (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56436
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA HD (Ec)" tvg-logo="" group-title="ECUADOR",ECUAVISA HD (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56458
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA HD 2da O(Ec)" tvg-logo="" group-title="ECUADOR",ECUAVISA HD 2da O(Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56457
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA SD (Ec)" tvg-logo="" group-title="ECUADOR",ECUAVISA SD (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56456
