@@ -1,4 +1,9 @@
 #EXTINF:-1,TeleAmozanas
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13080.ts
+#EXTINF:-1,TeleAmozanas
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14097.ts
+
+#EXTINF:-1,TeleAmozanas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
 
 #EXTINF:-1,Tc Mi canallogo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC HD
@@ -125,3 +130,61 @@ http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/11652
   
  #EXTINF:-1,SOLTERO SIN COMPROMISO ECUADOR 24/7
 http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/13290
+
+
+#EXTINF:-1,EC: CNT Sports {FULL HD}
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/13504
+
+#EXTINF:-1,EC: CNT Sports HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/3113
+
+#EXTINF:-1,EC: GOLTV FULL HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/20403
+
+#EXTINF:-1,EC: GOLTV
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/12122
+
+#EXTINF:-1,EC: GOLTV HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/7484
+
+#EXTINF:-1,EC: GOLTV HD (solo eventos)
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/20315
+
+#EXTINF:-1,EC: Ecuavisa FULL HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/4020
+
+#EXTINF:-1,EC: Ecuavisa HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/3148
+
+#EXTINF:-1,EC: RTS Ecuador
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/138
+
+#EXTINF:-1,EC: Teleamazonas FULL HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/4021
+
+#EXTINF:-1,EC: GAMA HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/13502
+
+#EXTINF:-1,EC: TVC TELEVICENTRO
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/12465
+
+#EXTINF:-1,EC: Ecuador TV
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/131
+
+#EXTINF:-1,EC: TC Television
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/12674
+
+#EXTINF:-1,EC: TC Television HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/976
+
+#EXTINF:-1,EC: TC Television FULL HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/4019
+
+#EXTINF:-1,EC: Canal UNO HD
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/13503
+
+#EXTINF:-1,EC: CANELA TV
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/7080
+
+#EXTINF:-1,EC: OromarTV
+http://disfruta.net:8000/luisernesto/9k1dZjN41j/137
