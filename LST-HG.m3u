@@ -1,9 +1,4 @@
 #EXTINF:-1,TeleAmozanas
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13080.ts
-#EXTINF:-1,TeleAmozanas
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14097.ts
-
-#EXTINF:-1,TeleAmozanas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
 
 #EXTINF:-1,Tc Mi canallogo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC HD
@@ -11,126 +6,6 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA SD
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS HD (Ec)" tvg-logo="" group-title="ECUADOR",TELEAMAZONAS HD (Ec)
-http://iptvtool.es:9977/tvsoria1/bZ4Ti6uOMd/56443
-
-#EXTINF:-1,7:30pm 	 Explosión Azul: Emelec vs Sporting Cristal HD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/30724
-
-#EXTINF:-1,7:30pm 	 Explosión Azul: Emelec vs Sporting Cristal SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/30725
-
-#EXTINF:-1,7:00 Noche Blanquiazul (PERU) ALIANZA LIMA VS BARCELONA SPORTIN CLUB
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/30733
-
-#EXTINF:-1,7:00 Noche Blanquiazul (PERU) ALIANZA LIMA VS BARCELONA SPORTIN CLUB SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/30734
-#EXTINF:-1,=== ECUADOR ===
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/782
-
-#EXTINF:-1,ECUAVISA FHD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/29657
-
-#EXTINF:-1,ECUAVISA HD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/2793
-
-#EXTINF:-1,ECUAVISA SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/812
-
-#EXTINF:-1,RTS FHD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/29658
-
-#EXTINF:-1,RTS HD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/2794
-
-#EXTINF:-1,RTS SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/2508
-
-#EXTINF:-1,TELEAMAZONAS FHD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/29654
-
-#EXTINF:-1,TELEAMAZONAS HD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/2510
-
-#EXTINF:-1,TELEAMAZONAS SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/9821
-
-#EXTINF:-1,ECUADOR TV
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/2509
-
-#EXTINF:-1,GAMA TV FHD (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/29661
-
-#EXTINF:-1,GAMA TV HD (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/11638
-
-#EXTINF:-1,GAMA TV SD (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/730
-
-#EXTINF:-1,TC TELEVISION FHD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/29656
-
-#EXTINF:-1,TC TELEVISION HD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/731
-
-#EXTINF:-1,TC TELEVISION SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/10586
-
-#EXTINF:-1,TVC FHD (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/29662
-
-#EXTINF:-1,TVC HD (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/11639
-
-#EXTINF:-1,TVC SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/11637
-
-#EXTINF:-1,CANAL UNO FHD (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/29652
-
-#EXTINF:-1,CANAL UNO HD (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/733
-
-#EXTINF:-1,CANAL UNO SD (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/10587
-
-#EXTINF:-1,OROMAR TV HD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/734
-
-#EXTINF:-1,OROMAR SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/10588
-
-#EXTINF:-1,CANELA TV SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/3960
-
-#EXTINF:-1,NOTICIA  HD ECUADOR
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/2511
-
-#EXTINF:-1,UCSG (SD) (EC)
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/11187
-
-#EXTINF:-1,GOL TV ECUADOR FHD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/11481
-
-#EXTINF:-1,GOL TV ECUADOR SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/10760
-
-#EXTINF:-1,CNT SPORTS HD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/4991
-
-#EXTINF:-1,CNT SPORT SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/2684
-
-#EXTINF:-1,DIRECTV ECUADOR SD
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/29469
-
-#EXTINF:-1,DIRECTV SPORTS + HD ENC
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/11652
-  
- #EXTINF:-1,SOLTERO SIN COMPROMISO ECUADOR 24/7
-http://iptvevolucion.ddns.net:25461/Mario/a4YQ3B8knc/13290
-
 
 #EXTINF:-1,EC: CNT Sports {FULL HD}
 http://disfruta.net:8000/luisernesto/9k1dZjN41j/13504
@@ -185,6 +60,53 @@ http://disfruta.net:8000/luisernesto/9k1dZjN41j/13503
 
 #EXTINF:-1,EC: CANELA TV
 http://disfruta.net:8000/luisernesto/9k1dZjN41j/7080
+#EXTINF:-1,ECU:ECUAVISA HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 
-#EXTINF:-1,EC: OromarTV
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/137
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" ,ECU:ECUAVISA SD
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+
+#EXTINF: -1, ECU:ECUAVISA
+http://173.212.247.99/hls/2tvec2.m3u8
+
+#EXTINF:-1,ECU:RTS
+https://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
+
+#EXTINF:-1,ECU:TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF: -1, ECU:TELEAMAZONAS
+http://173.212.247.99/hls/2tvec4.m3u8
+
+#EXTINF:-1, ECU:TeleAmozanas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
+
+#EXTINF: -1, ECU:CANAL UNO
+http://173.212.247.99/hls/2tvec1.m3u8
+
+#EXTINF: -1, ECU:UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1,ECU:CENTRO
+http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
+
+#EXTINF: -1, COL:RCN SD
+https://rcnhd.cdn.net.co/live01/rcnhd_360p.m3u8
+
+#EXTINF: -1, COL:RCN HD
+https://rcnhd.cdn.net.co/live01/rcnhd_480p.m3u8
+
+#EXTINF: -1, MEX: A+ AZTECA
+https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF: -1, DEPORTES:MARCADOR
+https://storage.tumarcador.xyz/t1/live.m3u8
+
+#EXTINF: -1, DEPORTES:MARCADOR
+https://storage.tumarcador.xyz/t3/live.m3u8
+
+#EXTINF:-1,DEPORTES:REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1,BEIN SPORTS
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/5e366d7042be4cea696aeee3b4bf361768237de6/0ed7b84eff58272d1ee1913e8a33f46d242bf8cc/95_6.m3u8
