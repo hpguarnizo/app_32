@@ -1,3 +1,53 @@
+#EXTINF:0,###### LATINO - ECUADOR ######
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/198911.m3u8
+#EXTINF:0,EC: Canal Uno HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116105.m3u8
+#EXTINF:0,EC: CNT Sports 1
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116096.m3u8
+#EXTINF:0,EC: Ecuador Tv 7
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116095.m3u8
+#EXTINF:0,EC: Ecuavisa HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116097.m3u8
+#EXTINF:0,EC: Ecuavisa Internacional HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116098.m3u8
+#EXTINF:0,EC: Gamatv HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116107.m3u8
+#EXTINF:0,EC: GOL TV HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116099.m3u8
+#EXTINF:0,LA: GOL TV HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/68443.m3u8
+#EXTINF:0,EC: RTS HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116100.m3u8
+#EXTINF:0,EC: TC HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116102.m3u8
+#EXTINF:0,EC: Tc Mi Canal FHD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116103.m3u8
+#EXTINF:0,EC: Teleamazonas HD
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116104.m3u8
+#EXTINF:0,LA: Directv Sport
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/68642.m3u8
+#EXTINF:0,LA: Directv Sport 1
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/68872.m3u8
+#EXTINF:0,LA: Directv Sport 2
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/68644.m3u8
+
+
 #EXTINF:-1,TeleAmozanas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
 
@@ -110,3 +160,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1,BEIN SPORTS
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/5e366d7042be4cea696aeee3b4bf361768237de6/0ed7b84eff58272d1ee1913e8a33f46d242bf8cc/95_6.m3u8
+#EXTINF:0,LA: Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/97717.m3u8
+#EXTINF:0,LA: CANAL Uno (Ecuador)
+#EXTVLCOPT:network-caching=1000
+http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/78654.m3u8
