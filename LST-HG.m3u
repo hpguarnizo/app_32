@@ -1,53 +1,4 @@
 #EXTINF:0,###### LATINO - ECUADOR ######
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/198911.m3u8
-#EXTINF:0,EC: Canal Uno HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116105.m3u8
-#EXTINF:0,EC: CNT Sports 1
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116096.m3u8
-#EXTINF:0,EC: Ecuador Tv 7
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116095.m3u8
-#EXTINF:0,EC: Ecuavisa HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116097.m3u8
-#EXTINF:0,EC: Ecuavisa Internacional HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116098.m3u8
-#EXTINF:0,EC: Gamatv HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116107.m3u8
-#EXTINF:0,EC: GOL TV HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116099.m3u8
-#EXTINF:0,LA: GOL TV HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/68443.m3u8
-#EXTINF:0,EC: RTS HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116100.m3u8
-#EXTINF:0,EC: TC HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116102.m3u8
-#EXTINF:0,EC: Tc Mi Canal FHD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116103.m3u8
-#EXTINF:0,EC: Teleamazonas HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/116104.m3u8
-#EXTINF:0,LA: Directv Sport
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/68642.m3u8
-#EXTINF:0,LA: Directv Sport 1
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/68872.m3u8
-#EXTINF:0,LA: Directv Sport 2
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/68644.m3u8
-
-
 #EXTINF:-1,TeleAmozanas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
 
@@ -57,82 +8,11 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA SD
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
 
-#EXTINF:-1,EC: CNT Sports {FULL HD}
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/13504
-
-#EXTINF:-1,EC: CNT Sports HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/3113
-
-#EXTINF:-1,EC: GOLTV FULL HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/20403
-
-#EXTINF:-1,EC: GOLTV
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/12122
-
-#EXTINF:-1,EC: GOLTV HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/7484
-
-#EXTINF:-1,EC: GOLTV HD (solo eventos)
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/20315
-
-#EXTINF:-1,EC: Ecuavisa FULL HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/4020
-
-#EXTINF:-1,EC: Ecuavisa HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/3148
-
-#EXTINF:-1,EC: RTS Ecuador
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/138
-
-#EXTINF:-1,EC: Teleamazonas FULL HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/4021
-
-#EXTINF:-1,EC: GAMA HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/13502
-
-#EXTINF:-1,EC: TVC TELEVICENTRO
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/12465
-
-#EXTINF:-1,EC: Ecuador TV
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/131
-
-#EXTINF:-1,EC: TC Television
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/12674
-
-#EXTINF:-1,EC: TC Television HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/976
-
-#EXTINF:-1,EC: TC Television FULL HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/4019
-
-#EXTINF:-1,EC: Canal UNO HD
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/13503
-
-#EXTINF:-1,EC: CANELA TV
-http://disfruta.net:8000/luisernesto/9k1dZjN41j/7080
 #EXTINF:-1,ECU:ECUAVISA HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" ,ECU:ECUAVISA SD
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
-
-#EXTINF: -1, ECU:ECUAVISA
-http://173.212.247.99/hls/2tvec2.m3u8
-
 #EXTINF:-1,ECU:RTS
 https://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
-
-#EXTINF:-1,ECU:TC HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-
-#EXTINF: -1, ECU:TELEAMAZONAS
-http://173.212.247.99/hls/2tvec4.m3u8
-
-#EXTINF:-1, ECU:TeleAmozanas
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
-
-#EXTINF: -1, ECU:CANAL UNO
-http://173.212.247.99/hls/2tvec1.m3u8
 
 #EXTINF: -1, ECU:UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
@@ -160,9 +40,3 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1,BEIN SPORTS
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/5e366d7042be4cea696aeee3b4bf361768237de6/0ed7b84eff58272d1ee1913e8a33f46d242bf8cc/95_6.m3u8
-#EXTINF:0,LA: Canal Uno
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/97717.m3u8
-#EXTINF:0,LA: CANAL Uno (Ecuador)
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/live/bc3n1Et2B/0gR75zm1yU/78654.m3u8
