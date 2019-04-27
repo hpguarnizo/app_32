@@ -1,132 +1,79 @@
 ============IPTV ECUADOR OFICCIAL=================
- 
-#EXTINF:-1,PPV1 Barcelona vs Cuenca
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/54.ts
-#EXTINF:-1,CANAL 13
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/42.ts
-#EXTINF:-1,CHILEVISION
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/44.ts
-#EXTINF:-1,TVN CHILE HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/45.ts
-#EXTINF:-1,MEGA HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/43.ts
-#EXTINF:-1,CNN CHILE HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/46.ts
-#EXTINF:-1,Canal 5 HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/39.ts
-#EXTINF:-1,CANAL DE LAS ESTRELLAS HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/38.ts
-#EXTINF:-1,RCN HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/37.ts
-#EXTINF:-1,Caracol FHD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/36.ts
-#EXTINF:-1,US:CNN HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/40.ts
-#EXTINF:-1,VENEVISION
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/34.ts
-#EXTINF:-1,AMERICA TELEVISION
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/35.ts
-#EXTINF:-1,RTU SD (Ecuador)
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/32.ts
-#EXTINF:-1,TVC SD (Ecuador)
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/33.ts
-#EXTINF:-1,CANAL Uno (Ecuador)
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/31.ts
-#EXTINF:-1,Univision FHD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/24.ts
-#EXTINF:-1,UNIMAS HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/22.ts
-#EXTINF:-1,Telemundo HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/26.ts
-#EXTINF:-1,TC TELEVISION
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/30.ts
-#EXTINF:-1,NBC UNIVERSO HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/25.ts
-#EXTINF:-1,GAMA TV
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/28.ts
-#EXTINF:-1,GALAVISION HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/23.ts
-#EXTINF:-1,ECUAVISA HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/27.ts
-#EXTINF:-1,RTS
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/29.ts
-#EXTINF:-1,MTV HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/21.ts
-#EXTINF:-1,HTV
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/20.ts
-#EXTINF:-1,CNN ESPANOL HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/19.ts
-#EXTINF:-1,(COL) NTN 24
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/18.ts
-#EXTINF:-1,ECU CNT SPORT FHD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/17.ts
-#EXTINF:-1,ECU GOL TV HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/16.ts
-#EXTINF:-1,US:beIN Sports HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/15.ts
-#EXTINF:-1,BeIN Sports Ñ HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/14.ts
-#EXTINF:-1,WWE Network HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/11.ts
-#EXTINF:-1,UFC Fight Pass HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/10.ts
-#EXTINF:-1,Tennis Channel HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/13.ts
-#EXTINF:-1,FM HOT HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/5.ts
-#EXTINF:-1,FM HOT SD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/51.ts
-#EXTINF:-1,US: HBO Zone FHD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/4.ts
-#EXTINF:-1,TOROS HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/3.ts
-#EXTINF:-1,US: THE WEATHER CHANNEL HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/2.ts
-#EXTINF:-1,US: WEATHER NATION HD
-http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/1.ts
-#EXTINF:-1,EC: CNT Sports {FULL HD}
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/13504
-#EXTINF:-1,EC: CNT Sports HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/3113
-#EXTINF:-1,EC: GOLTV FULL HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/20403
-#EXTINF:-1,EC: GOLTV
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/12122
-#EXTINF:-1,EC: GOLTV {HD}
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/23302
-#EXTINF:-1,EC: GOLTV HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/7484
-#EXTINF:-1,EC: GOLTV HD (solo eventos)
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/20315
-#EXTINF:-1,EC: Ecuavisa FULL HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/4020
-#EXTINF:-1,EC: Ecuavisa HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/3148
-#EXTINF:-1,EC: RTS Ecuador
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/138
-#EXTINF:-1,EC: Teleamazonas FULL HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/4021
-#EXTINF:-1,EC: Teleamazonas HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/3150
-#EXTINF:-1,EC: GAMA HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/13502
-#EXTINF:-1,EC: TVC TELEVICENTRO
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/12465
-#EXTINF:-1,EC: Ecuador TV
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/131
-#EXTINF:-1,EC: TC Television
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/12674
-#EXTINF:-1,EC: TC Television HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/976
-#EXTINF:-1,EC: TC Television FULL HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/4019
-#EXTINF:-1,EC: Canal UNO HD
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/13503
-#EXTINF:-1,EC: CANELA TV
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/7080
-#EXTINF:-1,EC: OromarTV
-http://disfruta.net:8000/mery0619/kqPkBfPFVK/137
- 
+#EXTINF:0,=== Ecuador ===
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11349
+#EXTINF:0,EC: Teleamazonas Quito
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/14012
+#EXTINF:0,EC: Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/30059
+#EXTINF:0,EC: Ecuavisa
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/8113
+#EXTINF:0,EC: Ecuavisa Internacional
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/15140
+#EXTINF:0,EC: Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11352
+#EXTINF:0,EC: TC SD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/16699
+#EXTINF:0,EC: TC HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/14013
+#EXTINF:0,EC: Oromar Television
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/19823
+#EXTINF:0,EC: RTS SD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/16700
+#EXTINF:0,EC: RTS Full HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/18374
+#EXTINF:0,EC: Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/30060
+#EXTINF:0,EC: Ecuador TV Full HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/15226
+#EXTINF:0,EC: Gamavision
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/15225
+#EXTINF:0,EC: TVC
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/18371
+#EXTINF:0,PE: Gol Peru
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/10984
+#EXTINF:0,PE: Gol Peru HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/19826
+#EXTINF:0,PE: Gol tv
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/8130
+#EXTINF:0,EC: CNT Sport
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/9581
+#EXTINF:0,EC: CNT Sports Full HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/19822
+#EXTINF:0,EC: Gol TV
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11059
+#EXTINF:0,EC: Directv Sports HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/18375
+#EXTINF:0,CO: Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11009
+#EXTINF:0,CO: Claro Sports HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17449
+#EXTINF:0,CO: Claro Sports Full HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/16667
  
  
  
