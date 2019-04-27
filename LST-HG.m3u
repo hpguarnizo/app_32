@@ -74,6 +74,12 @@ http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17449
 #EXTINF:0,CO: Claro Sports Full HD
 #EXTVLCOPT:network-caching=1000
 http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/16667
+#EXTINF:0,MX: Canal 5
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/10983
+#EXTINF:0,MX: Canal 5 Full HD
+#EXTVLCOPT:network-caching=1000
+http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/21263
  
  
  
