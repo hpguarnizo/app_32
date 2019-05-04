@@ -1,85 +1,19 @@
 ============IPTV ECUADOR OFICCIAL=================
-#EXTINF:0,=== Ecuador ===
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11349
-#EXTINF:0,EC: Teleamazonas Quito
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/14012
-#EXTINF:0,EC: Teleamazonas
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/30059
-#EXTINF:0,EC: Ecuavisa
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/8113
-#EXTINF:0,EC: Ecuavisa Internacional
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/15140
-#EXTINF:0,EC: Canal Uno
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11352
-#EXTINF:0,EC: TC SD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/16699
-#EXTINF:0,EC: TC HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/14013
-#EXTINF:0,EC: Oromar Television
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/19823
-#EXTINF:0,EC: RTS SD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/16700
-#EXTINF:0,EC: RTS Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/18374
-#EXTINF:0,EC: Ecuador TV
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/30060
-#EXTINF:0,EC: Ecuador TV Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/15226
-#EXTINF:0,EC: Gamavision
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/15225
-#EXTINF:0,EC: TVC
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/18371
-#EXTINF:0,PE: Gol Peru
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/10984
-#EXTINF:0,PE: Gol Peru HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/19826
-#EXTINF:0,PE: Gol tv
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/8130
-#EXTINF:0,EC: CNT Sport
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/9581
-#EXTINF:0,EC: CNT Sports Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/19822
-#EXTINF:0,EC: Gol TV
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11059
-#EXTINF:0,EC: Directv Sports HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/18375
-#EXTINF:0,CO: Claro Sports
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11009
-#EXTINF:0,CO: Claro Sports HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17449
-#EXTINF:0,CO: Claro Sports Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/16667
-#EXTINF:0,MX: Canal 5
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/10983
-#EXTINF:0,MX: Canal 5 Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/21263
+#EXTINF:-1,ECUAVISA
+http://latinchannel.tv:8000/Celina/celina/3446
+
+#EXTINF:-1,OROMAR TV
+http://latinchannel.tv:8000/Celina/celina/3447
+
+#EXTINF:-1,RTS
+http://latinchannel.tv:8000/Celina/celina/3445
+
+#EXTINF:-1,TC
+http://latinchannel.tv:8000/Celina/celina/3448
+
+#EXTINF:-1,TELEAMAZONAS
+http://latinchannel.tv:8000/Celina/celina/11986
+
 #EXTINF:-1,A3 SERIES
 http://latinchannel.tv:8000/Celina/celina/3236
 
