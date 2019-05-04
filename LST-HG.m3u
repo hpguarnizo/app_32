@@ -1,4 +1,10 @@
 ============IPTV ECUADOR OFICCIAL=================
+#EXTINF:-1,GOLTV
+http://latinchannel.tv:8000/Celina/celina/2848
+
+#EXTINF:-1,GOLTV Ecuador
+http://latinchannel.tv:8000/Celina/celina/9400
+
 #EXTINF:-1,ECUAVISA
 http://latinchannel.tv:8000/Celina/celina/3446
 
@@ -120,6 +126,32 @@ http://161.0.157.5/PLTV/88888888/224/3221226127/03.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
 #EXTINF:-1,HBO
 http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1,LIGA MX 1 (ATLAS VS VERACRUZ)
+http://latinchannel.tv:8000/Celina/celina/11663
+
+#EXTINF:-1,LIGA MX 2 (PUEBLA VS MONARCAS)
+http://latinchannel.tv:8000/Celina/celina/11664
+
+#EXTINF:-1,LIGA MX 3 (CRUZ AZUL VS QUERETARO)
+http://latinchannel.tv:8000/Celina/celina/11665
+
+#EXTINF:-1,LIGA MX 4 (TIGRES VS PUMAS)
+http://latinchannel.tv:8000/Celina/celina/11666
+
+#EXTINF:-1,LIGA MX 5 (LEON VS NECAXA)
+http://latinchannel.tv:8000/Celina/celina/11667
+
+#EXTINF:-1,LIGA MX 6 (CHIVAS VS LOBOS)
+http://latinchannel.tv:8000/Celina/celina/11668
+
+#EXTINF:-1,LIGA MX 7 (TIJUANA VS AMERICA)
+http://latinchannel.tv:8000/Celina/celina/11669
+
+#EXTINF:-1,LIGA MX 8 (SANTOS VS NECAXA)
+http://latinchannel.tv:8000/Celina/celina/11670
+
+#EXTINF:-1,LIGA MX 9 (LEON VS VERACRUZ)
+http://latinchannel.tv:8000/Celina/celina/11671
  
  
  
