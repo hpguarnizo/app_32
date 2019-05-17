@@ -1,67 +1,90 @@
 ============IPTV ECUADOR OFICCIAL=================
-#EXTINF:-1,GOLTV
-http://latinchannel.tv:8000/Celina/celina/2848
+#EXTINF:-1,===== ECUADOR GENERAL =====
+http://www.pandar.tv:25461/gert/gert/21231
 
-#EXTINF:-1,GOLTV Ecuador
-http://latinchannel.tv:8000/Celina/celina/9400
-#EXTINF:-1,GOLTV FHD
-http://jokeriptv.online:1453/euroiptv535/gdfgrt12552ggsertrykmnbvcx/86782
-#EXTINF:-1,A3 Series HD
-http://jokeriptv.online:1453/euroiptv535/gdfgrt12552ggsertrykmnbvcx/86878
+#EXTINF:-1,EC: Canal Uno
+http://www.pandar.tv:25461/gert/gert/18626
 
-#EXTINF:-1,ECUAVISA
-http://latinchannel.tv:8000/Celina/celina/3446
+#EXTINF:-1,EC: CNT Sports 1
+http://www.pandar.tv:25461/gert/gert/18625
 
-#EXTINF:-1,OROMAR TV
-http://latinchannel.tv:8000/Celina/celina/3447
+#EXTINF:-1,EC: Ecuador Tv 7
+http://www.pandar.tv:25461/gert/gert/18624
 
-#EXTINF:-1,RTS
-http://latinchannel.tv:8000/Celina/celina/3445
+#EXTINF:-1,EC: Ecuavisa HD
+http://www.pandar.tv:25461/gert/gert/18623
 
-#EXTINF:-1,TC
-http://latinchannel.tv:8000/Celina/celina/3448
+#EXTINF:-1,EC: Gamatv HD
+http://www.pandar.tv:25461/gert/gert/18622
 
-#EXTINF:-1,TELEAMAZONAS
-http://latinchannel.tv:8000/Celina/celina/11986
+#EXTINF:-1,EC: Gol Tv
+http://www.pandar.tv:25461/gert/gert/18621
 
-#EXTINF:-1,A3 SERIES
-http://latinchannel.tv:8000/Celina/celina/3236
+#EXTINF:-1,EC: OROMAR
+http://www.pandar.tv:25461/gert/gert/18620
 
-#EXTINF:-1,AMC HD
-http://latinchannel.tv:8000/Celina/celina/468 
- #EXTINF:-1,HBO (1080p)
-http://latinchannel.tv:8000/Celina/celina/5415
+#EXTINF:-1,EC: RTS HD
+http://www.pandar.tv:25461/gert/gert/18619
 
-#EXTINF:-1,HBO (720p)
-http://latinchannel.tv:8000/Celina/celina/3099
+#EXTINF:-1,EC: TC HD
+http://www.pandar.tv:25461/gert/gert/18618
 
-#EXTINF:-1,HBO (op 2)
-http://latinchannel.tv:8000/Celina/celina/3508
+#EXTINF:-1,EC: Tc Mi Canal
+http://www.pandar.tv:25461/gert/gert/18617
 
-#EXTINF:-1,HBO 2
-http://latinchannel.tv:8000/Celina/celina/378
+#EXTINF:-1,EC: Teleamazonas HD
+http://www.pandar.tv:25461/gert/gert/18616
 
-#EXTINF:-1,HBO 2 (1080p)(DUAL AUDIO)
-http://latinchannel.tv:8000/Celina/celina/4557
+#EXTINF:-1,LA: CANAL Uno (Ecuador)
+http://www.pandar.tv:25461/gert/gert/22131
 
-#EXTINF:-1,HBO FAMILY
-http://latinchannel.tv:8000/Celina/celina/182
+#EXTINF:-1,LA: ECUADOR TV (Ecuador)
+http://www.pandar.tv:25461/gert/gert/22045
 
-#EXTINF:-1,HBO Latino
-http://latinchannel.tv:8000/Celina/celina/181
+#EXTINF:-1,LA: ETC TV (Ecuador)
+http://www.pandar.tv:25461/gert/gert/22014
 
-#EXTINF:-1,HBO PLUS
-http://latinchannel.tv:8000/Celina/celina/377
+#EXTINF:-1,LA: GAMA TV (Ecuador)
+http://www.pandar.tv:25461/gert/gert/21964
 
-#EXTINF:-1,HBO PLUS OESTE
-http://latinchannel.tv:8000/Celina/celina/180
+#EXTINF:-1,LA: RTS (Ecuador)
+http://www.pandar.tv:25461/gert/gert/21802
 
-#EXTINF:-1,HBO Signature
-http://latinchannel.tv:8000/Celina/celina/3681
+#EXTINF:-1,LA: SUR Ecuador TV
+http://www.pandar.tv:25461/gert/gert/21739
 
-#EXTINF:-1,HBO Signature (1080P)(DUAL AUDIO)
-http://latinchannel.tv:8000/Celina/celina/224
+#EXTINF:-1,LA: TC ECUADOR
+http://www.pandar.tv:25461/gert/gert/21695
 
+#EXTINF:-1,LA: TELE AMAZONAS (Ecuador)
+http://www.pandar.tv:25461/gert/gert/21692
+
+#EXTINF:-1,ECUADOR: CANAL UNO
+http://www.pandar.tv:25461/gert/gert/21230
+
+#EXTINF:-1,ECUADOR: ECUADOR TV
+http://www.pandar.tv:25461/gert/gert/21229
+
+#EXTINF:-1,ECUADOR: ECUAVISA
+http://www.pandar.tv:25461/gert/gert/21228
+
+#EXTINF:-1,ECUADOR: ETC TV
+http://www.pandar.tv:25461/gert/gert/21227
+
+#EXTINF:-1,ECUADOR: GAMA TV
+http://www.pandar.tv:25461/gert/gert/21226
+
+#EXTINF:-1,ECUADOR: OROMAR
+http://www.pandar.tv:25461/gert/gert/21225
+
+#EXTINF:-1,ECUADOR: RTS
+http://www.pandar.tv:25461/gert/gert/21224
+
+#EXTINF:-1,ECUADOR: TC ECUADOR
+http://www.pandar.tv:25461/gert/gert/21223
+
+#EXTINF:-1,ECUADOR: TELE AMAZONAS
+http://www.pandar.tv:25461/gert/gert/21222
 #EXTINF:0,Cine: HBO SUB
 #EXTVLCOPT:network-caching=1000
 http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17298
