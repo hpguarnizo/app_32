@@ -184,7 +184,47 @@ http://latinchannel.tv:8000/Celina/celina/11671
 http://tv.nousiptv.com:25462/angelt/12345/3755
 #EXTINF:-1,GOL TV
 http://iptv.wtf:25461/sojizbbl/k89u8sB8Hl/14722
- 
+#extinf:-1,teleamozanas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?pelixmax.m3u8
+
+#extinf:-1,tc mi canallogo="https://upload.wikimedia.org/wikipedia/commons/4/45/tc_logo.png" group-title="ecuador",tc hd
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#extinf:-1 tvg-logo="http://2.bp.blogspot.com/-hbxrxjyak44/uwzxfqpotai/aaaaaaaabdu/xxrf0lewffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ecuador",ecuavisa sd
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+
+#extinf:-1,ecu:ecuavisa hd
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+
+#extinf:-1,ecu:rts
+https://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
+
+#extinf: -1, ecu:ucsg
+http://ecuastream.net:1935/ucsghq/ucsghq/playlist.m3u8
+
+#extinf:-1,ecu:centro
+http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
+
+#extinf: -1, col:rcn sd
+https://rcnhd.cdn.net.co/live01/rcnhd_360p.m3u8
+
+#extinf: -1, col:rcn hd
+https://rcnhd.cdn.net.co/live01/rcnhd_480p.m3u8
+
+#extinf: -1, mex: a+ azteca
+https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8?sd=10&rebase=on
+
+#extinf: -1, deportes:marcador
+https://storage.tumarcador.xyz/t1/live.m3u8
+
+#extinf: -1, deportes:marcador
+https://storage.tumarcador.xyz/t3/live.m3u8
+
+#extinf:-1,deportes:real madrid tv hd
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#extinf:-1,bein sports
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/5e366d7042be4cea696aeee3b4bf361768237de6/0ed7b84eff58272d1ee1913e8a33f46d242bf8cc/95_6.m3u8 
  
                                                ==========SIGUENOS FAN PAGE=============
                                            
