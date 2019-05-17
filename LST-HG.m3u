@@ -37,10 +37,34 @@ http://stream.tvpor-internet.net/manifest/03/stdio_univ.m3u8
 http://stream.tvpor-internet.net/manifest/02/f0x_action.m3u8
 #EXTINF:-1, Cartoon Network
 http://stream.tvpor-internet.net/manifest/03/cart_net.m3u8
+#EXTINF:-1, Discovery Kids
+http://stream.tvpor-internet.net/manifest/06/disc_kids.m3u8
 #EXTINF:-1, A&E HD
 http://stream.tvpor-internet.net/manifest/02/aehd.m3u8
 #EXTINF:-1, AMC
 http://stream.tvpor-internet.net/manifest/06/amc.m3u8
+#EXTINF:-1, Fox Sports Premium
+http://stream.tvpor-internet.net/manifest/04/fox-sports-premium.m3u8
+#EXTINF:-1, Espn +
+http://stream.tvpor-internet.net/manifest/06/espn_plus.m3u8
+#EXTINF:-1, Espn 2
+http://stream.tvpor-internet.net/manifest/06/espn2.m3u8
+#EXTINF:-1, Espn 3
+http://stream.tvpor-internet.net/manifest/06/espn3.m3u8
+#EXTINF:-1, TNT Sports
+http://stream.tvpor-internet.net/manifest/04/tnt-sports.m3u8
+#EXTINF:-1, Bein Sports
+http://stream.tvpor-internet.net/manifest/04/bein-n-sports.m3u8
+#EXTINF:-1, TNT Series
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Cr0Eu2U9csY_Zl2__A_ODNh6LySx1SN56oTeqVyaMS2NiMMLDG3YfuQfjkudBe2Jh7LSnekJN31cXN_hygmc7Xbbrkx70lu_04pX7IZXdKSr8BqcJJI4ERk9ueqbTJMR-41m5KFgcAUI-5tziatU9_00bTlfY5k8e1DDQLYS8cxBjQbFP8EYI1JDnLPZPEbvFyxlN1QRY7JcTbTrfCeqG4P-zRIWGIv2htmKNa9PTuEHVbovxFuWTBb5rqhm_eqgdBaWH3O9A80xdb2HgceXV7tXTPtYgTh3qgYYfO7P2LIqcnoxxpLV86CU7ZBsHi8ujV6GPRFTARzW4Gd8gmAZhfct5rRk75142_mvZi2C43ujtirHo5GrsuV7cC-eJdqSOqFamO6_hGPY315HVgCE0tLyIwkLTEwJuwrdUq50rQia5j9h9Ud_nXm1xDagiDkvFm3XMIbwrUd2JNQ36NeXEJU1bSTMQxeNymnBJDbYvFFtTZ5GLQDXv2PRAIZpmFSbljhsgSEMhPXdcsX3i4UbU69QASIEhZDARWQENr02vd5PJ3UGPo7q9HElhmsAx9pQu0XsqlVXItKI9Pbd67XtqbEX0aTiPi5zTGnQBERzbvyM9s1M01EViceUT_xMaxYszmB7dSbQqFaOlfRKnUalU6RLzgs8WJpU4JnodhbJcRhea2HFK2figmKv9XLZRh9dydIf2XVk5Hi1QwS9-L58U46RBaz8oLPwLszC9qzA5CCchLjJWJW6Ovj89PERJfwQEhB9qt4kbjhRIK4tjwPSIGL8GgyeLV-MFgrtkcoqkvk.m3u8
+#EXTINF:-1, Caracol
+http://stream.tvpor-internet.net/manifest/05/caracol.m3u8
+#EXTINF:-1, Investigarion Discovery
+http://stream.tvpor-internet.net/manifest/02/idhd.m3u8
+#EXTINF:-1, SYFY
+http://stream.tvpor-internet.net/manifest/02/syfy.m3u8
+
+
 
 http://102.165.52.125:25461/streamlive/258_.m3u8
 #EXTINF:-1,===== ECUADOR GENERAL =====
