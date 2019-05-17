@@ -7,7 +7,42 @@ http://stream.tvpor-internet.net/manifest/04/canal-cinco.m3u8
 http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
 #EXTINF:-1, Directv
 http://stream.tvpor-internet.net/manifest/04/directv.m3u8
+#EXTINF:-1, Univision TDN
+http://stream.tvpor-internet.net/manifest/04/univision-tdn.m3u8
+#EXTINF:-1, Cine Canal
+http://stream.tvpor-internet.net/manifest/03/cinecanal.m3u8
+#EXTINF:-1, Disney Channel
+http://stream.tvpor-internet.net/manifest/03/d1sney.m3u8
+#EXTINF:-1, Canal de las estrellas
+http://stream.tvpor-internet.net/manifest/02/estrellas_latam.m3u8
+#EXTINF:-1, Cinemax
+http://stream.tvpor-internet.net/manifest/03/c1nemax.m3u8
+#EXTINF:-1, Discovery Kids
+http://stream.tvpor-internet.net/manifest/02/idhd.m3u8
+#EXTINF:-1, Fox Movies
+http://stream.tvpor-internet.net/manifest/02/f0x_movies.m3u8
+#EXTINF:-1, Fox Series
+http://stream.tvpor-internet.net/manifest/02/f0x_series.m3u8
+#EXTINF:-1, Golden Plus
+http://stream.tvpor-internet.net/manifest/06/golden.m3u8
+#EXTINF:-1, HBO
+http://stream.tvpor-internet.net/manifest/06/hb0hd.m3u8
+#EXTINF:-1, Latina
+http://stream.tvpor-internet.net/manifest/05/latina.m3u8
+#EXTINF:-1, TNT
+http://stream.tvpor-internet.net/manifest/03/tnt.m3u8
+#EXTINF:-1, Universal Studio
+http://stream.tvpor-internet.net/manifest/03/stdio_univ.m3u8
+#EXTINF:-1, Fox Action
+http://stream.tvpor-internet.net/manifest/02/f0x_action.m3u8
+#EXTINF:-1, Cartoon Network
+http://stream.tvpor-internet.net/manifest/03/cart_net.m3u8
+#EXTINF:-1, A&E HD
+http://stream.tvpor-internet.net/manifest/02/aehd.m3u8
+#EXTINF:-1, AMC
+http://stream.tvpor-internet.net/manifest/06/amc.m3u8
 
+http://102.165.52.125:25461/streamlive/258_.m3u8
 #EXTINF:-1,===== ECUADOR GENERAL =====
 http://www.pandar.tv:25461/gert/gert/21231
 
