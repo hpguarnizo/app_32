@@ -1,4 +1,13 @@
-============IPTV ECUADOR OFICCIAL=================
+============Canales Srregio=================
+#EXTINF:-1, Space
+http://stream.tvpor-internet.net/manifest/03/space.m3u8
+#EXTINF:-1, Canal 5
+http://stream.tvpor-internet.net/manifest/04/canal-cinco.m3u8
+#EXTINF:-1, FOX
+http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
+#EXTINF:-1, Directv
+http://stream.tvpor-internet.net/manifest/04/directv.m3u8
+
 #EXTINF:-1,===== ECUADOR GENERAL =====
 http://www.pandar.tv:25461/gert/gert/21231
 
