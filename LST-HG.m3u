@@ -66,194 +66,26 @@ http://stream.tvpor-internet.net/manifest/02/syfy.m3u8
 
 
 
-http://102.165.52.125:25461/streamlive/258_.m3u8
-#EXTINF:-1,===== ECUADOR GENERAL =====
-http://www.pandar.tv:25461/gert/gert/21231
-
-#EXTINF:-1,EC: Canal Uno
-http://www.pandar.tv:25461/gert/gert/18626
-
-#EXTINF:-1,EC: CNT Sports 1
-http://www.pandar.tv:25461/gert/gert/18625
-
-#EXTINF:-1,EC: Ecuador Tv 7
-http://www.pandar.tv:25461/gert/gert/18624
-
-#EXTINF:-1,EC: Ecuavisa HD
-http://www.pandar.tv:25461/gert/gert/18623
-
-#EXTINF:-1,EC: Gamatv HD
-http://www.pandar.tv:25461/gert/gert/18622
-
-#EXTINF:-1,EC: Gol Tv
-http://www.pandar.tv:25461/gert/gert/18621
-
-#EXTINF:-1,EC: OROMAR
-http://www.pandar.tv:25461/gert/gert/18620
-
-#EXTINF:-1,EC: RTS HD
-http://www.pandar.tv:25461/gert/gert/18619
-
-#EXTINF:-1,EC: TC HD
-http://www.pandar.tv:25461/gert/gert/18618
-
-#EXTINF:-1,EC: Tc Mi Canal
-http://www.pandar.tv:25461/gert/gert/18617
-
-#EXTINF:-1,EC: Teleamazonas HD
-http://www.pandar.tv:25461/gert/gert/18616
-
-#EXTINF:-1,LA: CANAL Uno (Ecuador)
-http://www.pandar.tv:25461/gert/gert/22131
-
-#EXTINF:-1,LA: ECUADOR TV (Ecuador)
-http://www.pandar.tv:25461/gert/gert/22045
-
-#EXTINF:-1,LA: ETC TV (Ecuador)
-http://www.pandar.tv:25461/gert/gert/22014
-
-#EXTINF:-1,LA: GAMA TV (Ecuador)
-http://www.pandar.tv:25461/gert/gert/21964
-
-#EXTINF:-1,LA: RTS (Ecuador)
-http://www.pandar.tv:25461/gert/gert/21802
-
-#EXTINF:-1,LA: SUR Ecuador TV
-http://www.pandar.tv:25461/gert/gert/21739
-
-#EXTINF:-1,LA: TC ECUADOR
-http://www.pandar.tv:25461/gert/gert/21695
-
-#EXTINF:-1,LA: TELE AMAZONAS (Ecuador)
-http://www.pandar.tv:25461/gert/gert/21692
-
-#EXTINF:-1,ECUADOR: CANAL UNO
-http://www.pandar.tv:25461/gert/gert/21230
-
-#EXTINF:-1,ECUADOR: ECUADOR TV
-http://www.pandar.tv:25461/gert/gert/21229
-
-#EXTINF:-1,ECUADOR: ECUAVISA
-http://www.pandar.tv:25461/gert/gert/21228
-
-#EXTINF:-1,ECUADOR: ETC TV
-http://www.pandar.tv:25461/gert/gert/21227
-
-#EXTINF:-1,ECUADOR: GAMA TV
-http://www.pandar.tv:25461/gert/gert/21226
-
-#EXTINF:-1,ECUADOR: OROMAR
-http://www.pandar.tv:25461/gert/gert/21225
-
-#EXTINF:-1,ECUADOR: RTS
-http://www.pandar.tv:25461/gert/gert/21224
-
-#EXTINF:-1,ECUADOR: TC ECUADOR
-http://www.pandar.tv:25461/gert/gert/21223
-
-#EXTINF:-1,ECUADOR: TELE AMAZONAS
-http://www.pandar.tv:25461/gert/gert/21222
-#EXTINF:0,Cine: HBO SUB
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17298
-#EXTINF:0,Cine: HBO SUB HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17355
-#EXTINF:0,Cine: HBO SUB Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17494
-#EXTINF:0,Cine: HBO Latino
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/14898
-#EXTINF:0,Cine: HBO
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11040
-#EXTINF:0,Cine: HBO Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11800
-#EXTINF:0,Cine: HBO 2
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11041
-#EXTINF:0,Cine: HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17389
-#EXTINF:0,Cine: HBO 2 Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11801
-#EXTINF:0,Cine: HBO Family
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11042
-#EXTINF:0,Cine: HBO Family HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17419
-#EXTINF:0,Cine: HBO Family Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11802
-#EXTINF:0,Cine: HBO Plus
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11043
-#EXTINF:0,Cine: HBO Plus HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17448
-#EXTINF:0,Cine: HBO Plus Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11803
-#EXTINF:0,Cine: HBO Signature
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11044
-#EXTINF:0,Cine: HBO Signature HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/17370
-#EXTINF:0,Cine: HBO Signature Full HD
-#EXTVLCOPT:network-caching=1000
-http://54.36.174.115:25461/JoseManuel/BDNvpPM1oT/11805
 #EXTINF:-1,HBO 2 International
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
 #EXTINF:-1,US:HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
- #EXTINF:-1,HBO 2
+
+#EXTINF:-1,HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
 #EXTINF:-1,HBO HD
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
+
 #EXTINF:-1,HBO
 http://161.0.157.5/PLTV/88888888/224/3221226127/03.m3u8
+
 #EXTINF:-1,VH HD
 http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
+
 #EXTINF:-1,HBO
 http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1,LIGA MX 1 (ATLAS VS VERACRUZ)
-http://latinchannel.tv:8000/Celina/celina/11663
-
-#EXTINF:-1,LIGA MX 2 (PUEBLA VS MONARCAS)
-http://latinchannel.tv:8000/Celina/celina/11664
-
-#EXTINF:-1,LIGA MX 3 (CRUZ AZUL VS QUERETARO)
-http://latinchannel.tv:8000/Celina/celina/11665
-
-#EXTINF:-1,LIGA MX 4 (TIGRES VS PUMAS)
-http://latinchannel.tv:8000/Celina/celina/11666
-
-#EXTINF:-1,LIGA MX 5 (LEON VS NECAXA)
-http://latinchannel.tv:8000/Celina/celina/11667
-
-#EXTINF:-1,LIGA MX 6 (CHIVAS VS LOBOS)
-http://latinchannel.tv:8000/Celina/celina/11668
-
-#EXTINF:-1,LIGA MX 7 (TIJUANA VS AMERICA)
-http://latinchannel.tv:8000/Celina/celina/11669
-
-#EXTINF:-1,LIGA MX 8 (SANTOS VS NECAXA)
-http://latinchannel.tv:8000/Celina/celina/11670
-
-#EXTINF:-1,LIGA MX 9 (LEON VS VERACRUZ)
-http://latinchannel.tv:8000/Celina/celina/11671
- 
-#EXTINF:-1,GOL TV (1080 HQ)
-http://tv.nousiptv.com:25462/angelt/12345/3755
-#EXTINF:-1,GOL TV
-http://iptv.wtf:25461/sojizbbl/k89u8sB8Hl/14722
-#extinf:-1,teleamozanas
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?pelixmax.m3u8
 
 #extinf:-1,tc mi canallogo="https://upload.wikimedia.org/wikipedia/commons/4/45/tc_logo.png" group-title="ecuador",tc hd
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
@@ -267,773 +99,190 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 #extinf:-1,ecu:rts
 https://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
 
-#extinf: -1, ecu:ucsg
-http://ecuastream.net:1935/ucsghq/ucsghq/playlist.m3u8
-
-#extinf:-1,ecu:centro
-http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
-
-#extinf: -1, col:rcn sd
-https://rcnhd.cdn.net.co/live01/rcnhd_360p.m3u8
-
-#extinf: -1, col:rcn hd
-https://rcnhd.cdn.net.co/live01/rcnhd_480p.m3u8
-
 #extinf: -1, mex: a+ azteca
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8?sd=10&rebase=on
-
-#extinf: -1, deportes:marcador
-https://storage.tumarcador.xyz/t1/live.m3u8
-
-#extinf: -1, deportes:marcador
-https://storage.tumarcador.xyz/t3/live.m3u8
 
 #extinf:-1,deportes:real madrid tv hd
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
 #extinf:-1,bein sports
-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/5e366d7042be4cea696aeee3b4bf361768237de6/0ed7b84eff58272d1ee1913e8a33f46d242bf8cc/95_6.m3u8 
-
-#EXTINF:-1,LA: CANAL Uno (Ecuador)
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/78654
-
-#EXTINF:-1,LA: ECUADOR TV
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/104209
-
-#EXTINF:-1,LA: ECUAVISA HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/77884
-#EXTINF:-1,LA: ETC TV (Ecuador)
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/77795 
-#EXTINF:-1,LA: SUR Ecuador TV
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/97
-#EXTINF:-1,LA: SUR RTS
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88022
-
-#EXTINF:-1,LA: TC ECUADOR
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210562
-
-#EXTINF:-1,LA: TC TELEVISION
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/68726
-
-#EXTINF:-1,LA: TCM HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/68519
-
-#EXTINF:-1,LA: TDN
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/108449
-
-#EXTINF:-1,LA: TDN DEPORTES HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/68409
-#EXTINF:-1,EC: Canal Uno HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116105
-
-#EXTINF:-1,EC: CNT Sports 1
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116096
-
-#EXTINF:-1,EC: Ecuador Tv 7
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116095
-
-#EXTINF:-1,EC: Ecuavisa HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116097
-
-#EXTINF:-1,EC: Ecuavisa Internacional HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116098
-
-#EXTINF:-1,EC: Gama TV HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210944
-
-#EXTINF:-1,EC: GOL TV HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116099
-
-#EXTINF:-1,EC: RTS HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116100
-
-#EXTINF:-1,EC: Tc Mi Canal FHD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116103
-
-#EXTINF:-1,EC: Teleamazonas HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116104
-
-#EXTINF:-1,EC: TVC HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210945
-#EXTINF:-1,LA: GOL TV HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/68443
-#EXTINF:-1,Cartoon Network | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22183
-
-#EXTINF:-1,Disney Jr | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22176
-
-#EXTINF:-1,Disney XD | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22178
-
-#EXTINF:-1,Disney Channel | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22175
-
-#EXTINF:-1,Nick | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22182
-
-#EXTINF:-1,Nick 2 | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22181
-
-#EXTINF:-1,Nick Jr | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22180
-
-#EXTINF:-1,Nat Geo Kids | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22173
-
-#EXTINF:-1,Discovery Kids | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22174
-
-#EXTINF:-1,BabyTV | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22172
-
-#EXTINF:-1,Boomerang | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22171
-
-#EXTINF:-1,Tooncast | Niños
-http://144.217.72.145:25461/9178/0oiBg70PmA/22170
-
-#EXTINF:-1,Las Estrellas | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/22223
-
-#EXTINF:-1,ADN 40 | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/26892
-
-#EXTINF:-1,Multimedios | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/26891
-
-#EXTINF:-1,Azteca 7 | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/22222
-
-#EXTINF:-1,AZ Mundo | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/22220
-
-#EXTINF:-1,Canal 20 Zacatecas | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/22227
-
-#EXTINF:-1,Canal Once | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/22230
-
-#EXTINF:-1,15TV Sabinas | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28896
-
-#EXTINF:-1,Azteca Mas | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28895
-
-#EXTINF:-1,Canal 10 Cancun | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28893
-
-#EXTINF:-1,Canal 10 Chiapas | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28892
-
-#EXTINF:-1,Canal 15 Zacatecas | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28891
-
-#EXTINF:-1,Canal 4 Saltillo | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28894
-
-#EXTINF:-1,FOROtv | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28888
-
-#EXTINF:-1,Teleformula | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28887
-
-#EXTINF:-1,Telemar Campeche | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28886
-
-#EXTINF:-1,Tlaxcala TV | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28884
-
-#EXTINF:-1,Ultra TV Aguascalientes | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28877
-
-#EXTINF:-1,Ultra TV Puebla | Nacionales
-http://144.217.72.145:25461/9178/0oiBg70PmA/28878
-
-#EXTINF:-1,A&E | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21852
-
-#EXTINF:-1,AMC | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21817
-
-#EXTINF:-1,AXN | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21839
-
-#EXTINF:-1,Cinemax | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21818
-
-#EXTINF:-1,E! | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21844
-
-#EXTINF:-1,FOX | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21835
-
-#EXTINF:-1,FX | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21833
-
-#EXTINF:-1,FXM | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21848
-
-#EXTINF:-1,Sony | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21842
-
-#EXTINF:-1,Studio Universal | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21801
-
-#EXTINF:-1,Universal Channel | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21798
-
-#EXTINF:-1,Warner Channel | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21831
-
-#EXTINF:-1,Canal Claro | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21816
-
-#EXTINF:-1,Cine Dinamita | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21815
-
-#EXTINF:-1,Cinecanal | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21829
-
-#EXTINF:-1,Cinelatino | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21814
-
-#EXTINF:-1,CNN Español | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21813
-
-#EXTINF:-1,FOX Extra | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21812
-
-#EXTINF:-1,Comedy Central | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21811
-
-#EXTINF:-1,De Pelicula | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21810
-
-#EXTINF:-1,DHE | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21809
-
-#EXTINF:-1,Distrito Comedia | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21851
-
-#EXTINF:-1,El Gourmet | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21837
-
-#EXTINF:-1,FOX Life | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21808
-
-#EXTINF:-1,Glitz | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21806
-
-#EXTINF:-1,ISat | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21805
-
-#EXTINF:-1,Lifetime | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21804
-
-#EXTINF:-1,Mas Chic | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21824
-
-#EXTINF:-1,Multipremier | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21803
-
-#EXTINF:-1,Paramount Channel | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21802
-
-#EXTINF:-1,Pasiones | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21823
-
-#EXTINF:-1,RCN Telenovelas | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21822
-
-#EXTINF:-1,Sundance Channel | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21800
-
-#EXTINF:-1,TBS | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21854
-
-#EXTINF:-1,TCM | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21799
-
-#EXTINF:-1,Telemundo Internacional | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21846
-
-#EXTINF:-1,TLNovelas | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21825
-
-#EXTINF:-1,TNT | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/21820
-
-#EXTINF:-1,Telecinco | España
-http://144.217.72.145:25461/9178/0oiBg70PmA/29909
-
-#EXTINF:-1,History | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/22184
-
-#EXTINF:-1,H2 | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21796
-
-#EXTINF:-1,Nat Geo | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21775
-
-#EXTINF:-1,Nat Geo Wild | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21774
-
-#EXTINF:-1,Animal Planet | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21783
-
-#EXTINF:-1,TLC | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21797
-
-#EXTINF:-1,Discovery Channel | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21782
-
-#EXTINF:-1,Discovery H&H | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21781
-
-#EXTINF:-1,Discovery Science | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21779
-
-#EXTINF:-1,Discovery Theater | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21778
-
-#EXTINF:-1,Discovery Turbo | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21777
-
-#EXTINF:-1,Discovery World | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21776
-
-#EXTINF:-1,Discovery Civilization | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21792
-
-#EXTINF:-1,Investigation Discovery | Cultura
-http://144.217.72.145:25461/9178/0oiBg70PmA/21780
-
-#EXTINF:-1,MAX Prime | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22212
-
-#EXTINF:-1,MAX Up | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22211
-
-#EXTINF:-1,Golden Plus | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22209
-
-#EXTINF:-1,Golden Premier | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22208
-
-#EXTINF:-1,HBO | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22206
-
-#EXTINF:-1,HBO 2 | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22204
-
-#EXTINF:-1,HBO Family | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22200
-
-#EXTINF:-1,HBO Plus | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22203
-
-#EXTINF:-1,HBO Signature | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22201
-
-#EXTINF:-1,Cinema Plus | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22198
-
-#EXTINF:-1,TNT Series | Entretenimiento
-http://144.217.72.145:25461/9178/0oiBg70PmA/22199
-
-#EXTINF:-1,FOX Action | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22196
-
-#EXTINF:-1,FOX Cinema | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22194
-
-#EXTINF:-1,FOX Classics | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22192
-
-#EXTINF:-1,FOX Comedy | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22190
-
-#EXTINF:-1,FOX Family | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22187
-
-#EXTINF:-1,FOX Movies | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22188
-
-#EXTINF:-1,FOX Series | Premium
-http://144.217.72.145:25461/9178/0oiBg70PmA/22186
-
-#EXTINF:-1,MTV | Música
-http://144.217.72.145:25461/9178/0oiBg70PmA/22217
-
-#EXTINF:-1,MTV Hits | Música
-http://144.217.72.145:25461/9178/0oiBg70PmA/22216
-
-#EXTINF:-1,MTV Live | Música
-http://144.217.72.145:25461/9178/0oiBg70PmA/22215
-
-#EXTINF:-1,VH1 | Música
-http://144.217.72.145:25461/9178/0oiBg70PmA/22214
-
-#EXTINF:-1,VH1 Classics | Música
-http://144.217.72.145:25461/9178/0oiBg70PmA/22213
-
-#EXTINF:-1,Afizzionados | Deportes | México
-http://144.217.72.145:25461/9178/0oiBg70PmA/29908
-
-#EXTINF:-1,TDN HD | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21764
-
-#EXTINF:-1,Univision TDN | Deportes | México
-http://144.217.72.145:25461/9178/0oiBg70PmA/29906
-
-#EXTINF:-1,Bein Sports | Deportes | España
-http://144.217.72.145:25461/9178/0oiBg70PmA/28872
-
-#EXTINF:-1,Bein Sports | Deportes | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28871
-
-#EXTINF:-1,ESPN  | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21768
-
-#EXTINF:-1,ESPN Plus | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21771
-
-#EXTINF:-1,ESPN Sur | Deportes | México
-http://144.217.72.145:25461/9178/0oiBg70PmA/21772
-
-#EXTINF:-1,ESPN 2 | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21770
-
-#EXTINF:-1,ESPN 3 | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21769
-
-#EXTINF:-1,FOX Sports | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21767
-
-#EXTINF:-1,FOX Sports Sur 1 | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21749
-
-#EXTINF:-1,FOX Sports Sur 2 | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21748
-
-#EXTINF:-1,FOX Sports Sur 3 | Deportes | Mexico
-http://144.217.72.145:25461/9178/0oiBg70PmA/21747
-
-#EXTINF:-1,FOX Sports 2 | Deportes | Argentina
-http://144.217.72.145:25461/9178/0oiBg70PmA/21766
-
-#EXTINF:-1,Win Sports | Deportes | Colombia
-http://144.217.72.145:25461/9178/0oiBg70PmA/21746
-
-#EXTINF:-1,All Sports | Deportes | Brazil
-http://144.217.72.145:25461/9178/0oiBg70PmA/21737
-
-#EXTINF:-1,Golf Latin America | Deportes | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/21773
-
-#EXTINF:-1,NBCSN | Deportes | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/21758
-
-#EXTINF:-1,TSN 1 | Deportes | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/21763
-
-#EXTINF:-1,TSN 2 | Deportes | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/21762
-
-#EXTINF:-1,TSN 3 | Deportes | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/21761
-
-#EXTINF:-1,TSN 4 | Deportes | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/21760
-
-#EXTINF:-1,BT Sport | Deportes | Reino Unido
-http://144.217.72.145:25461/9178/0oiBg70PmA/21751
-
-#EXTINF:-1,Flow Sports | Deportes | Reino Unido
-http://144.217.72.145:25461/9178/0oiBg70PmA/21740
-
-#EXTINF:-1,Sky Sports Main Event | Deportes | Reino Unido
-http://144.217.72.145:25461/9178/0oiBg70PmA/21757
-
-#EXTINF:-1,Sky Sports Premier League | Deportes | Reino Unido
-http://144.217.72.145:25461/9178/0oiBg70PmA/21756
-
-#EXTINF:-1,IRC Sport TV | Deportes | Italia
-http://144.217.72.145:25461/9178/0oiBg70PmA/21739
-
-#EXTINF:-1,XSport | Deportes | Ucrania
-http://144.217.72.145:25461/9178/0oiBg70PmA/21732
-
-#EXTINF:-1,Cartoon Network | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/22238
-
-#EXTINF:-1,Fox 4 | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/22250
-
-#EXTINF:-1,Fox 5 | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/22249
-
-#EXTINF:-1,Fox News | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/22251
-
-#EXTINF:-1,Fox Premium Movies | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/22248
-
-#EXTINF:-1,HBO 2 | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/22246
-
-#EXTINF:-1,Sony | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/22243
-
-#EXTINF:-1,TruTV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/22252
-
-#EXTINF:-1,24-7 Retro TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29033
-
-#EXTINF:-1,30A TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29032
-
-#EXTINF:-1,360 North | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29031
-
-#EXTINF:-1,ABC | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29030
-
-#EXTINF:-1,ABC News | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29029
-
-#EXTINF:-1,ACTV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29028
-
-#EXTINF:-1,AKC TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29027
-
-#EXTINF:-1,Animal Planet | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29026
-
-#EXTINF:-1,Atlanta Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29025
-
-#EXTINF:-1,AXS TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29024
-
-#EXTINF:-1,Beach TV - 30A | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29023
-
-#EXTINF:-1,Beach TV - Panama City | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29022
-
-#EXTINF:-1,Beach TV - Pawleys Island | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29021
-
-#EXTINF:-1,Big Ten Network BTN | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29020
-
-#EXTINF:-1,Buffalo TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29019
-
-#EXTINF:-1,BYUtv | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29018
-
-#EXTINF:-1,California Music Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29017
-
-#EXTINF:-1,CBS | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29016
-
-#EXTINF:-1,CBS News | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29015
-
-#EXTINF:-1,CC-TV Charlotte County | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29014
-
-#EXTINF:-1,Central Valley Talk | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29013
-
-#EXTINF:-1,CGTN America | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29011
-
-#EXTINF:-1,Classic Arts Showcase | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29010
-
-#EXTINF:-1,Classic TV 4U | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29009
-
-#EXTINF:-1,CNN | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29008
-
-#EXTINF:-1,Cooking Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29007
-
-#EXTINF:-1,DC Council Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29005
-
-#EXTINF:-1,Denver 8 TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29004
-
-#EXTINF:-1,Denver Open Media 56 | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29003
-
-#EXTINF:-1,Discovery Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29002
-
-#EXTINF:-1,Ditty TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29001
-
-#EXTINF:-1,ESPN | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/29000
-
-#EXTINF:-1,ESPN 2 | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28999
-
-#EXTINF:-1,Evine | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28998
-
-#EXTINF:-1,FACTv Community | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28997
-
-#EXTINF:-1,FACTv Government | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28996
-
-#EXTINF:-1,Fairfax Public Access | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28995
-
-#EXTINF:-1,Flashback TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28994
-
-#EXTINF:-1,Fox Premium Cinema | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28992
-
-#EXTINF:-1,Fox Premium Comedy | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28991
-
-#EXTINF:-1,Fox Sports Racing | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28990
-
-#EXTINF:-1,Garland TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28989
-
-#EXTINF:-1,Gloversville - New York Institute of Technology | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28988
-
-#EXTINF:-1,Key TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28987
-
-#EXTINF:-1,MLB Live | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28984
-
-#EXTINF:-1,MLB Network | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28985
-
-#EXTINF:-1,Mobcrush | Games | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28983
-
-#EXTINF:-1,Music Choice Play | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28982
-
-#EXTINF:-1,NBC | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28981
-
-#EXTINF:-1,Orange TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28980
-
-#EXTINF:-1,Pop | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28979
-
-#EXTINF:-1,Red Bull TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28978
-
-#EXTINF:-1,SafeTV4U2 | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28977
-
-#EXTINF:-1,Science Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28975
-
-#EXTINF:-1,Screamfest | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28976
-
-#EXTINF:-1,Shop LC | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28974
-
-#EXTINF:-1,Sidewalks | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28973
-
-#EXTINF:-1,Sky News America | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28972
-
-#EXTINF:-1,Sony Movie Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28971
-
-#EXTINF:-1,Southeastern Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28970
-
-#EXTINF:-1,Stadium | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28969
-
-#EXTINF:-1,The Country Network | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28968
-
-#EXTINF:-1,The Weather Channel | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28967
-
-#EXTINF:-1,TLC | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28966
-
-#EXTINF:-1,TSTV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28965
-
-#EXTINF:-1,Weather Nation | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28964
-
-#EXTINF:-1,WHAM Network | Games | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28963
-
-#EXTINF:-1,Xcorps TV | USA
-http://144.217.72.145:25461/9178/0oiBg70PmA/28962
-
-
-#
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213643
-
-#EXTINF:-1,EC: Canal Uno HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116105
-
-#EXTINF:-1,EC: CNT Sports 1
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116096
-
-#EXTINF:-1,EC: Ecuador Tv 7
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116095
-
-#EXTINF:-1,EC: Ecuavisa HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116097
-
-#EXTINF:-1,EC: Ecuavisa Internacional HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116098
-
-#EXTINF:-1,EC: Gama TV HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210944
-
-#EXTINF:-1,EC: GOL TV HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116099
-
-#EXTINF:-1,EC: RTS HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116100
-
-#EXTINF:-1,EC: Tc Mi Canal FHD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116103
-
-#EXTINF:-1,EC: Teleamazonas HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116104
-
-#EXTINF:-1,EC: TVC HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210945
-
-#
-
-==========SIGUENOS FAN PAGE=============
-                                           
-                                               https://t.me/joinchat/AH1V1EpvqGzxg7pvPAD_ew
- 
-                                      https://www.facebook.com/groups/596566654103323/?ref=bookmarks
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/5e366d7042be4cea696aeee3b4bf361768237de6/0ed7b84eff58272d1ee1913e8a33f46d242bf8cc/95_6.m3u8
+
+#EXTINF:-1,MX | A&E FULL HD
+http://149.56.26.6:25461/mariana/12345/40495
+#EXTINF:-1,MX | a+
+http://149.56.26.6:25461/mariana/12345/40376
+#EXTINF:-1,MX | AMC HD
+http://149.56.26.6:25461/mariana/12345/41135
+#EXTINF:-1,MX | Animal Planet FULL HD
+http://149.56.26.6:25461/mariana/12345/40380
+#EXTINF:-1,MX | AXN
+http://149.56.26.6:25461/mariana/12345/41229
+#EXTINF:-1,MX | AXN FULL HD
+http://149.56.26.6:25461/mariana/12345/40156
+#EXTINF:-1,MX | AZ Clic
+http://149.56.26.6:25461/mariana/12345/42146
+#EXTINF:-1,MX | AZ Corazon
+http://149.56.26.6:25461/mariana/12345/42113
+#EXTINF:-1,MX | Azteca 1 FULL HD
+http://149.56.26.6:25461/mariana/12345/40198
+#EXTINF:-1,MX | Cartoon Network FULL HD
+http://149.56.26.6:25461/mariana/12345/40155
+#EXTINF:-1,MX | Cinemax
+http://149.56.26.6:25461/mariana/12345/42205
+#EXTINF:-1,MX | CNN
+http://149.56.26.6:25461/mariana/12345/41141
+#EXTINF:-1,MX | Comedy Central
+http://149.56.26.6:25461/mariana/12345/41137
+#EXTINF:-1,MX | Comedy Central FULL HD
+http://149.56.26.6:25461/mariana/12345/40559
+#EXTINF:-1,MX | Discovery Channel
+http://149.56.26.6:25461/mariana/12345/41130
+#EXTINF:-1,MX | Discovery H&H
+http://149.56.26.6:25461/mariana/12345/41134
+#EXTINF:-1,MX | Discovery H&H FULL HD
+http://149.56.26.6:25461/mariana/12345/40535
+#EXTINF:-1,MX | Discovery ID
+http://149.56.26.6:25461/mariana/12345/41133
+#EXTINF:-1,MX | Discovery ID FULL HD
+http://149.56.26.6:25461/mariana/12345/40154
+#EXTINF:-1,MX | Discovery Kids
+http://149.56.26.6:25461/mariana/12345/41143
+#EXTINF:-1,MX | Discovery Science
+http://149.56.26.6:25461/mariana/12345/41222
+#EXTINF:-1,MX | Discovery Theater
+http://149.56.26.6:25461/mariana/12345/41149
+#EXTINF:-1,MX | Discovery TLC
+http://149.56.26.6:25461/mariana/12345/41234
+#EXTINF:-1,MX | Discovery Turbo
+http://149.56.26.6:25461/mariana/12345/41225
+#EXTINF:-1,MX | Discovery World
+http://149.56.26.6:25461/mariana/12345/41148
+#EXTINF:-1,MX | E!
+http://149.56.26.6:25461/mariana/12345/41140
+#EXTINF:-1,MX | ESPN
+http://149.56.26.6:25461/mariana/12345/40504
+#EXTINF:-1,MX | ESPN 2
+http://149.56.26.6:25461/mariana/12345/40491
+#EXTINF:-1,MX | ESPN 3
+http://149.56.26.6:25461/mariana/12345/40490
+#EXTINF:-1,MX | ESPN+
+http://149.56.26.6:25461/mariana/12345/41128
+#EXTINF:-1,MX | Canal De Las Estrellas -2
+http://149.56.26.6:25461/mariana/12345/41001
+#EXTINF:-1,MX | Fox Action
+http://149.56.26.6:25461/mariana/12345/42111
+#EXTINF:-1,MX | Fox Action FULL HD
+http://149.56.26.6:25461/mariana/12345/40485
+#EXTINF:-1,MX | Fox Cinema
+http://149.56.26.6:25461/mariana/12345/42112
+#EXTINF:-1,MX | Fox Classics
+http://149.56.26.6:25461/mariana/12345/40486
+#EXTINF:-1,MX | Fox Family FULL HD
+http://149.56.26.6:25461/mariana/12345/40538
+#EXTINF:-1,MX | Fox Movies
+http://149.56.26.6:25461/mariana/12345/42110
+#EXTINF:-1,MX | Fox Movies FULL HD
+http://149.56.26.6:25461/mariana/12345/40160
+#EXTINF:-1,MX | Fox Series FULL HD
+http://149.56.26.6:25461/mariana/12345/40159
+#EXTINF:-1,MX | Fox Sports 1
+http://149.56.26.6:25461/mariana/12345/42206
+#EXTINF:-1,MX | Fox Sports 2
+http://149.56.26.6:25461/mariana/12345/40588
+#EXTINF:-1,MX | Fox Sports 3
+http://149.56.26.6:25461/mariana/12345/40589
+#EXTINF:-1,MX | FX
+http://149.56.26.6:25461/mariana/12345/41153
+#EXTINF:-1,MX | FX FULL HD
+http://149.56.26.6:25461/mariana/12345/40379
+#EXTINF:-1,MX | FXM
+http://149.56.26.6:25461/mariana/12345/39002
+#EXTINF:-1,MX | Golden Premier FULL HD
+http://149.56.26.6:25461/mariana/12345/41219
+#EXTINF:-1,MX | Golf Latin American HD
+http://149.56.26.6:25461/mariana/12345/42105
+#EXTINF:-1,MX | HBO
+http://149.56.26.6:25461/mariana/12345/41125
+#EXTINF:-1,MX | HBO 2 FULL HD
+http://149.56.26.6:25461/mariana/12345/40166
+#EXTINF:-1,MX | HBO Family FULL HD
+http://149.56.26.6:25461/mariana/12345/40299
+#EXTINF:-1,MX | HBO FULL HD
+http://149.56.26.6:25461/mariana/12345/40482
+#EXTINF:-1,MX | HBO Plus FULL HD
+http://149.56.26.6:25461/mariana/12345/40484
+#EXTINF:-1,MX | HBO Signature FULL HD
+http://149.56.26.6:25461/mariana/12345/40483
+#EXTINF:-1,MX | History
+http://149.56.26.6:25461/mariana/12345/41147
+#EXTINF:-1,MX | Lifetime
+http://149.56.26.6:25461/mariana/12345/41274
+#EXTINF:-1,MX | MAX UP FULL HD
+http://149.56.26.6:25461/mariana/12345/40168
+#EXTINF:-1,MX | Mtv
+http://149.56.26.6:25461/mariana/12345/41136
+#EXTINF:-1,MX | Mtv FULL HD
+http://149.56.26.6:25461/mariana/12345/40560
+#EXTINF:-1,MX | Mtv Live FULL HD
+http://149.56.26.6:25461/mariana/12345/42100
+#EXTINF:-1,MX | Multimedios Saltillo
+http://149.56.26.6:25461/mariana/12345/42148
+#EXTINF:-1,MX | NatGeo Wild
+http://149.56.26.6:25461/mariana/12345/42065
+#EXTINF:-1,MX | Nick 2
+http://149.56.26.6:25461/mariana/12345/42147
+#EXTINF:-1,MX | Nicktoons
+http://149.56.26.6:25461/mariana/12345/39009
+#EXTINF:-1,MX | Nick Jr
+http://149.56.26.6:25461/mariana/12345/42150
+#EXTINF:-1,MX | Nickelodeon
+http://149.56.26.6:25461/mariana/12345/41146
+#EXTINF:-1,MX | Sony
+http://149.56.26.6:25461/mariana/12345/41152
+#EXTINF:-1,MX | TBS
+http://149.56.26.6:25461/mariana/12345/40149
+#EXTINF:-1,MX | TCM
+http://149.56.26.6:25461/mariana/12345/41230
+#EXTINF:-1,MX | TNT
+http://149.56.26.6:25461/mariana/12345/41122
+#EXTINF:-1,MX | TNT FULL HD
+http://149.56.26.6:25461/mariana/12345/40173
+#EXTINF:-1,MX | TNT Series
+http://149.56.26.6:25461/mariana/12345/41043
+#EXTINF:-1,MX | TruTv
+http://149.56.26.6:25461/mariana/12345/42067
+#EXTINF:-1,MX | VH1 HD
+http://149.56.26.6:25461/mariana/12345/42127
+#EXTINF:-1,MX | Space FHD
+http://149.56.26.6:25461/mariana/12345/168605
+#EXTINF:-1,MX | Space HD
+http://149.56.26.6:25461/mariana/12345/133315
+#EXTINF:-1,MX | Canal 5
+http://149.56.26.6:25461/mariana/12345/1684
+#EXTINF:-1,MX | Canal 5 Full HD
+http://149.56.26.6:25461/mariana/12345/40201
+
+#EXTINF:-1,MX | UTDN
+http://149.56.26.6:25461/mariana/12345/159625
+#EXTINF:-1,MX | TDN
+http://149.56.26.6:25461/mariana/12345/2629
+#EXTINF:-1,MX | HBO
+http://149.56.26.6:25461/mariana/12345/41125
+#EXTINF:-1,MX | HBO 2 FULL HD
+http://149.56.26.6:25461/mariana/12345/40166
+#EXTINF:-1,MX | HBO Family FULL HD
+http://149.56.26.6:25461/mariana/12345/40299
+#EXTINF:-1,MX | HBO FULL HD
+http://149.56.26.6:25461/mariana/12345/40482
+#EXTINF:-1,MX | HBO Plus FULL HD
+http://149.56.26.6:25461/mariana/12345/40484
+#EXTINF:-1,MX | HBO Signature FULL HD
+http://149.56.26.6:25461/mariana/12345/40483
+#EXTINF:-1,MX | Fox Sports 1
+http://149.56.26.6:25461/mariana/12345/42206
+#EXTINF:-1,MX | Fox Sports 2
+http://149.56.26.6:25461/mariana/12345/40588
+#EXTINF:-1,MX | Fox Sports 3
+http://149.56.26.6:25461/mariana/12345/40589
+#EXTINF:-1,MX | FX
