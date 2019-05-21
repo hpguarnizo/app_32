@@ -1,4 +1,8 @@
+#EXTINF:-1,Unknown 0
+http://latinchannel.tv:8000/Celina/celina/3099
+
 #EXTM3U
+
 #EXTINF:-1, Space
 http://stream.tvpor-internet.net/manifest/03/space.m3u8
 #EXTINF:-1, Canal 5
@@ -63,9 +67,6 @@ http://stream.tvpor-internet.net/manifest/05/caracol.m3u8
 http://stream.tvpor-internet.net/manifest/02/idhd.m3u8
 #EXTINF:-1, SYFY
 http://stream.tvpor-internet.net/manifest/02/syfy.m3u8
-
-
-
 #EXTINF:-1,HBO 2 International
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
@@ -284,4 +285,3 @@ http://149.56.26.6:25461/mariana/12345/42206
 #EXTINF:-1,MX | Fox Sports 2
 http://149.56.26.6:25461/mariana/12345/40588
 #EXTINF:-1,MX | Fox Sports 3
-http://149.56.26.6:25461/mariana/12345/40589
