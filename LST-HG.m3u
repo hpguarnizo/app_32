@@ -16,6 +16,47 @@ http://tv.nousiptv.com:25462/Ivan/Ivan/27879
 http://tv.nousiptv.com:25462/Ivan/Ivan/9565
 #EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS PLUS HD
 http://tv.nousiptv.com:25462/Ivan/Ivan/8520
+#EXTINF:-1 tvg-id="" tvg-name="ARG - GOL TV" tvg-logo="http://3.bp.blogspot.com/-50ftBLygE58/T-KE4Uzq5xI/AAAAAAAAUJQ/V7cXWzKJuu8/s1600/gol-tv.jpg" group-title="ARGENTINA",ARG - GOL TV
+#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="GOL TV (1080 HQ)" tvg-logo="http://vercanalestv.com/logos/goltv.jpg" group-title="• LATINO DEPORTES •",GOL TV (1080 HQ)
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS HD (ECUADOR)" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/small.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.aa7eeeb868173f97fabaefe9649ec564.png" group-title="ECUADOR",ECU - DIRECTV SPORTS HD (ECUADOR)
+http://tv.nousiptv.com:25462/Ivan/Ivan/23239
+#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS / GOL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV FHD
+http://tv.nousiptv.com:25462/Ivan/Ivan/7471
+#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS / GOL TV HD PPV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV HD PPV 2
+http://tv.nousiptv.com:25462/Ivan/Ivan/7472
+#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS SD
+http://tv.nousiptv.com:25462/Ivan/Ivan/3180
+#EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV (LOCAL)" tvg-logo="https://www.estadio.ec/sites/default/files/fotos/2017/07/28/goltv-conmebol-28-07-2017-2.png" group-title="ECUADOR",ECU - GOL TV (LOCAL)
+http://tv.nousiptv.com:25462/Ivan/Ivan/25753
+#EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV" tvg-logo="http://radiohuancavilca.com.ec/wp-content/uploads/2017/06/goltv.jpg" group-title="ECUADOR",ECU - GOL TV
+http://tv.nousiptv.com:25462/Ivan/Ivan/7438
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 SUR HD (1080 HQ)" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",FOX SPORTS 1 SUR HD (1080 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/3611
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 SUR HD (720)" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",FOX SPORTS 1 SUR HD (720)
+http://tv.nousiptv.com:25462/Ivan/Ivan/3612
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 SUR HD (1080 HQ)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •",FOX SPORTS 2 SUR HD (1080 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/2046
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 SUR HD (720)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •",FOX SPORTS 2 SUR HD (720)
+http://tv.nousiptv.com:25462/Ivan/Ivan/16139
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX SPORTS 3 SUR HD (1080 HQ)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpHSN1Z-ExlLx350GEeMefxFYaoGzE6J6lJcilroSL-LvwVvquA" group-title="• LATINO DEPORTES •",FOX SPORTS 3 SUR HD (1080 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/2045
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN SUR" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",ESPN SUR
+http://tv.nousiptv.com:25462/Ivan/Ivan/3614
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 SUR" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •",ESPN 2 SUR
+http://tv.nousiptv.com:25462/Ivan/Ivan/3616
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 SUR" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •",ESPN 3 SUR
+http://tv.nousiptv.com:25462/Ivan/Ivan/3615
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MX - CANAL 5 (720 HD)" tvg-logo="http://www.mediafire.com/convkey/4579/wf556q76db9iubmzg.jpg" group-title="MEXICO",MX - CANAL 5 (720 HD)
+http://tv.nousiptv.com:25462/Ivan/Ivan/3244
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="CANAL 5 (1080 HQ)" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="MEXICO",CANAL 5 (1080 HQ)
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN (1080 HQ)" tvg-logo="http://multipress.com.mx/wp-content/uploads/2016/10/multi-TDN.jpg" group-title="• LATINO DEPORTES •",TDN (1080 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/3963
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="UNIVISION TDN (720 HD)" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/univision_tdn.png" group-title="• LATINO DEPORTES •",UNIVISION TDN (720 HD)
+http://tv.nousiptv.com:25462/Ivan/Ivan/4117
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="UNIVISION DEPORTES (1080 HQ)" tvg-logo="https://22958-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/07/Univision_Deportes.png" group-title="• LATINO DEPORTES •",UNIVISION DEPORTES (1080 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/3962
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="UNIVISION TDN USA" tvg-logo="http://i.televisa.com/2017/04/utdn.jpg" group-title="• LATINO DEPORTES •",UNIVISION TDN USA
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA HD
 http://tv.nousiptv.com:25462/Ivan/Ivan/3433
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA
