@@ -5,6 +5,45 @@ http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
 #EXTINF:-1, LISTA GRATUITA PARA EL GRUPO EN FACEBOOK  : DE TODO EN IPTV LATINO
 http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD (1080 HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS HD (1080 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/7863
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DIRECTV SPORTS HD (720 HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS HD (720 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/24962
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD (1080 HQ)" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS 2 HD (1080 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/27879
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS 2 HD (720 HQ)" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS 2 HD (720 HQ)
+http://tv.nousiptv.com:25462/Ivan/Ivan/9565
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS PLUS HD
+http://tv.nousiptv.com:25462/Ivan/Ivan/8520
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA HD
+http://tv.nousiptv.com:25462/Ivan/Ivan/3433
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA
+http://tv.nousiptv.com:25462/Ivan/Ivan/8084
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO HD" tvg-logo="http://www.mediafire.com/convkey/4100/he9qkdekgmruyrszg.jpg" group-title="ECUADOR",ECU - CANAL UNO HD
+http://tv.nousiptv.com:25462/Ivan/Ivan/3436
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="ECUADOR",ECU - CANAL UNO
+http://tv.nousiptv.com:25462/Ivan/Ivan/8083
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS HD" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",ECU - TELEAMAZONAS HD
+http://tv.nousiptv.com:25462/Ivan/Ivan/7532
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",ECU - TELEAMAZONAS
+http://tv.nousiptv.com:25462/Ivan/Ivan/3428
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMA TV HD" tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="ECUADOR",ECU - GAMA TV HD
+http://tv.nousiptv.com:25462/Ivan/Ivan/3432
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMA TV" tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="ECUADOR",ECU - GAMA TV
+http://tv.nousiptv.com:25462/Ivan/Ivan/8085
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="ECU - OROMAR TV HD" tvg-logo="http://www.mediafire.com/convkey/7945/ne4d8dxraya611bzg.jpg" group-title="ECUADOR",ECU - OROMAR TV HD
+http://tv.nousiptv.com:25462/Ivan/Ivan/3431
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",ECU - RTS HD
+http://tv.nousiptv.com:25462/Ivan/Ivan/7534
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS" tvg-logo="http://www.mediafire.com/convkey/c789/tfn5nd84vwi8py8zg.jpg" group-title="ECUADOR",ECU - RTS
+http://tv.nousiptv.com:25462/Ivan/Ivan/3430
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/09/ed/8e/09ed8ed6be0255ed4281a245b6528209.jpg" group-title="ECUADOR",ECU - TC TELEVISION HD
+http://tv.nousiptv.com:25462/Ivan/Ivan/7533
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION
+http://tv.nousiptv.com:25462/Ivan/Ivan/3429
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="ECU - ECUADOR TV" tvg-logo="http://www.mediafire.com/convkey/4c6c/3bkfp44hr0m2gfxzg.jpg" group-title="ECUADOR",ECU - ECUADOR TV
+
 #EXTINF:-1, hbo2 dual (eng esp)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 
