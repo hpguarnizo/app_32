@@ -577,3 +577,18 @@ http://tv.nousiptv.com:25462/Ivan/Ivan/7533
 http://tv.nousiptv.com:25462/072233/072233/7533
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION
 http://tv.nousiptv.com:25462/Ivan/Ivan/3429
+
+#EXTINF:-1,ESPN MX HD
+http://tv.nousiptv.com:25462/072233/072233/3258
+
+#EXTINF:-1,ESPN MX
+http://tv.nousiptv.com:25462/072233/072233/3178
+
+#EXTINF:-1,ESPN 2 MX
+http://tv.nousiptv.com:25462/072233/072233/3259
+
+#EXTINF:-1,ESPN 3 MX
+http://tv.nousiptv.com:25462/072233/072233/3260
+
+#EXTINF:-1,ESPN PLUS MX
+http://tv.nousiptv.com:25462/072233/072233/4120
