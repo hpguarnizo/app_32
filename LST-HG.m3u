@@ -2,85 +2,112 @@
 #EXTINF:-1,LISTA HG
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD (1080 HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS HD (1080 HQ)
 http://tv.nousiptv.com:25462/072233/072233/7863
+
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DIRECTV SPORTS HD (720 HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS HD (720 HQ)
 http://tv.nousiptv.com:25462/072233/072233/24962
+
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD (1080 HQ)" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS 2 HD (1080 HQ)
 http://tv.nousiptv.com:25462/072233/072233/27879
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS 2 HD (720 HQ)" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS 2 HD (720 HQ)
-http://tv.nousiptv.com:25462/072233/072233/9565
+
 #EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS PLUS HD
 http://tv.nousiptv.com:25462/072233/072233/8520
+
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS HD (ECUADOR)" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/small.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.aa7eeeb868173f97fabaefe9649ec564.png" group-title="ECUADOR",ECU - DIRECTV SPORTS HD (ECUADOR)
 http://tv.nousiptv.com:25462/072233/072233/23239
+
 #EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS / GOL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV FHD
 http://tv.nousiptv.com:25462/072233/072233/7471
-#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS / GOL TV HD PPV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV HD PPV 2
-http://tv.nousiptv.com:25462/072233/072233/7472
-#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS SD
-http://tv.nousiptv.com:25462/072233/072233/3180
+
 #EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV (LOCAL)" tvg-logo="https://www.estadio.ec/sites/default/files/fotos/2017/07/28/goltv-conmebol-28-07-2017-2.png" group-title="ECUADOR",ECU - GOL TV (LOCAL)
 http://tv.nousiptv.com:25462/072233/072233/25753
+
 #EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV" tvg-logo="http://radiohuancavilca.com.ec/wp-content/uploads/2017/06/goltv.jpg" group-title="ECUADOR",ECU - GOL TV
 http://tv.nousiptv.com:25462/072233/072233/7438
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - GOL TV" tvg-logo="http://3.bp.blogspot.com/-50ftBLygE58/T-KE4Uzq5xI/AAAAAAAAUJQ/V7cXWzKJuu8/s1600/gol-tv.jpg" group-title="ARGENTINA",ARG - GOL TV
 http://tv.nousiptv.com:25462/072233/072233/2039
+
 #EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="GOL TV (1080 HQ)" tvg-logo="http://vercanalestv.com/logos/goltv.jpg" group-title="• LATINO DEPORTES •",GOL TV (1080 HQ)
 http://tv.nousiptv.com:25462/072233/072233/3755
+
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA HD
 http://tv.nousiptv.com:25462/072233/072233/3433
+
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA
 http://tv.nousiptv.com:25462/072233/072233/8084
+
 #EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO HD" tvg-logo="http://www.mediafire.com/convkey/4100/he9qkdekgmruyrszg.jpg" group-title="ECUADOR",ECU - CANAL UNO HD
 http://tv.nousiptv.com:25462/072233/072233/3436
+
 #EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="ECUADOR",ECU - CANAL UNO
 http://tv.nousiptv.com:25462/072233/072233/8083
+
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS HD" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",ECU - TELEAMAZONAS HD
 http://tv.nousiptv.com:25462/072233/072233/7532
+
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",ECU - TELEAMAZONAS
 http://tv.nousiptv.com:25462/072233/072233/3428
+
 #EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMA TV HD" tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="ECUADOR",ECU - GAMA TV HD
 http://tv.nousiptv.com:25462/072233/072233/3432
+
 #EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMA TV" tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="ECUADOR",ECU - GAMA TV
 http://tv.nousiptv.com:25462/072233/072233/8085
+
 #EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="ECU - OROMAR TV HD" tvg-logo="http://www.mediafire.com/convkey/7945/ne4d8dxraya611bzg.jpg" group-title="ECUADOR",ECU - OROMAR TV HD
 http://tv.nousiptv.com:25462/072233/072233/3431
+
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",ECU - RTS HD
 http://tv.nousiptv.com:25462/072233/072233/7534
+
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS" tvg-logo="http://www.mediafire.com/convkey/c789/tfn5nd84vwi8py8zg.jpg" group-title="ECUADOR",ECU - RTS
 http://tv.nousiptv.com:25462/072233/072233/3430
+
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/09/ed/8e/09ed8ed6be0255ed4281a245b6528209.jpg" group-title="ECUADOR",ECU - TC TELEVISION HD
 http://tv.nousiptv.com:25462/072233/072233/7533
+
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION
 http://tv.nousiptv.com:25462/072233/072233/3429
 
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="ECU - ECUADOR TV" tvg-logo="http://www.mediafire.com/convkey/4c6c/3bkfp44hr0m2gfxzg.jpg" group-title="ECUADOR",ECU - ECUADOR TV
 http://tv.nousiptv.com:25462/072233/072233/3434
+
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX SPORTS MX" tvg-logo="http://www.mediafire.com/convkey/ae16/dhlnq36gaib3d9czg.jpg" group-title="• LATINO DEPORTES •",FOX SPORTS MX
 http://tv.nousiptv.com:25462/072233/072233/3267
+
 #EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 MX" tvg-logo="http://www.mediafire.com/convkey/e5e1/84lqzq9b7ra7kgazg.jpg" group-title="• LATINO DEPORTES •",FOX SPORTS 2 MX
 http://tv.nousiptv.com:25462/072233/072233/3268
+
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 MX" tvg-logo="http://vertelevisionenvivo.com/wp-content/uploads/2017/06/fox-sports-3-vivo.jpg" group-title="• LATINO DEPORTES •",FOX SPORTS 3 MX
 http://tv.nousiptv.com:25462/072233/072233/4008
+
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPN MX HD" tvg-logo="http://www.mediafire.com/convkey/19a2/7s07mu4zd270jp1zg.jpg" group-title="• LATINO DEPORTES •",ESPN MX HD
 http://tv.nousiptv.com:25462/072233/072233/3258
+
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPN MX" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",ESPN MX
 http://tv.nousiptv.com:25462/072233/072233/3178
+
 #EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 MX" tvg-logo="http://www.mediafire.com/convkey/7617/64eaua60jei8k3pzg.jpg" group-title="• LATINO DEPORTES •",ESPN 2 MX
 http://tv.nousiptv.com:25462/072233/072233/3259
+
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3 MX" tvg-logo="http://www.mediafire.com/convkey/d823/mp5467d3i5iq4n4zg.jpg" group-title="• LATINO DEPORTES •",ESPN 3 MX
 http://tv.nousiptv.com:25462/072233/072233/3260
-#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="ESPN PLUS MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •",ESPN PLUS MX
-http://tv.nousiptv.com:25462/072233/072233/4120
+
 #EXTINF:-1 tvg-id="" tvg-name="CHILE -  HBO HD (1080 HQ)" tvg-logo="https://cdn.mitvstatic.com/channels/py_hbo-hd-este_m.png" group-title="CHILE",CHILE -  HBO HD (1080 HQ)
 http://tv.nousiptv.com:25462/072233/072233/29484
+
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - HBO HD (720 HQ)" tvg-logo="https://cdn.mitvstatic.com/channels/py_hbo-hd-este_m.png" group-title="CHILE",CHILE - HBO HD (720 HQ)
 http://tv.nousiptv.com:25462/072233/072233/29483
+
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="CHILE - MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/1200px-2015megaoficial.png" group-title="CHILE",CHILE - MEGA HD
 http://tv.nousiptv.com:25462/072233/072233/2148
+
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="CHILE - MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/1200px-2015megaoficial.png" group-title="CHILE",CHILE - MEGA
 http://tv.nousiptv.com:25462/072233/072233/3343
+
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",CHILE - MEGA PLUS
 http://tv.nousiptv.com:25462/072233/072233/22562
+
 #EXTINF:-1, hbo2 dual (eng esp)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 
@@ -113,12 +140,6 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/UCSG-Televisi%C3%B3n.png" group-title="ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/tc-tel1.jpg" group-title="ECUADOR",TC
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
 #EXTINF:-1,Top Latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/.m3u8
@@ -165,418 +186,321 @@ http://149.56.26.6:25461/mariana/12345/41125
 #EXTINF:-1,MX | TDN
 http://149.56.26.6:25461/mariana/12345/2629
 
+
+#EXTINF:-1,MUNDIAL 01  ( ARABIA SAUDITA VS PANAMA SUB 20 EN VIVO)
+http://tv.nousiptv.com:25462/072233/072233/30213
+
+#EXTINF:-1,NTV 01 [ GOLDEN STATE VS TORONTO RAPTORS JUEGO 1 EN VIVO]
+http://tv.nousiptv.com:25462/072233/072233/13062
+
+#EXTINF:-1,MUNDIAL 03 ( SUR AFRCA VS PORTUGAL SUB 20  EN VIVO)
+http://tv.nousiptv.com:25462/072233/072233/30215
+
+#EXTINF:-1,MUNDIAL 02 ( MALÍ VS FRANCIA SUB 20  EN VIVO )
+http://tv.nousiptv.com:25462/072233/072233/30214
+
+#EXTINF:-1,MUNDIAL 04 ( REPUBLICA DE COREA VS ARGENTINA SUB 20 EN VIVO )
+http://tv.nousiptv.com:25462/072233/072233/30216
+
+#EXTINF:-1,ON DIRECTV
+http://tv.nousiptv.com:25462/072233/072233/23238
+
+#EXTINF:-1,ANIMAL PLANET
+http://tv.nousiptv.com:25462/072233/072233/3247
+
+#EXTINF:-1,AXN
+http://tv.nousiptv.com:25462/072233/072233/3248
+
+#EXTINF:-1,A&E
+http://tv.nousiptv.com:25462/072233/072233/3246
+
+#EXTINF:-1,BANDISPORTING
+http://tv.nousiptv.com:25462/072233/072233/29330
+
+#EXTINF:-1,BANDINEW
+http://tv.nousiptv.com:25462/072233/072233/29329
+
+#EXTINF:-1,COMBAT
+http://tv.nousiptv.com:25462/072233/072233/29328
+
+#EXTINF:-1,PREM 2
+http://tv.nousiptv.com:25462/072233/072233/29332
+
+#EXTINF:-1,PREM 3
+http://tv.nousiptv.com:25462/072233/072233/29333
+
+#EXTINF:-1,PREM 4
+http://tv.nousiptv.com:25462/072233/072233/29334
+
+#EXTINF:-1,PREM 5
+http://tv.nousiptv.com:25462/072233/072233/29335
+
+#EXTINF:-1,PREM 6
+http://tv.nousiptv.com:25462/072233/072233/29336
+
+#EXTINF:-1,PREM 7
+http://tv.nousiptv.com:25462/072233/072233/29337
+
+#EXTINF:-1,PREM 8
+http://tv.nousiptv.com:25462/072233/072233/29338
+
+#EXTINF:-1,PREM 9
+http://tv.nousiptv.com:25462/072233/072233/29339
+
+#EXTINF:-1,PREMBOX
+http://tv.nousiptv.com:25462/072233/072233/29340
+
+#EXTINF:-1,BANDAMAX
+http://tv.nousiptv.com:25462/072233/072233/3086
+
+#EXTINF:-1,BOOMERANG
+http://tv.nousiptv.com:25462/072233/072233/3085
+
+#EXTINF:-1,BABY FIRST
+http://tv.nousiptv.com:25462/072233/072233/2958
+
+#EXTINF:-1,UNIVISION HD
+http://tv.nousiptv.com:25462/072233/072233/3796
+
+#EXTINF:-1,UNIVISION MIAMI
+http://tv.nousiptv.com:25462/072233/072233/3177
+
+#EXTINF:-1,UNIVISION NEW YORK
+http://tv.nousiptv.com:25462/072233/072233/2021
+
+#EXTINF:-1,TELEMUNDO HD
+http://tv.nousiptv.com:25462/072233/072233/3794
+
+#EXTINF:-1,TELEMUNDO 47
+http://tv.nousiptv.com:25462/072233/072233/3785
+
+#EXTINF:-1,TELEMUNDO 51
+http://tv.nousiptv.com:25462/072233/072233/3202
+
+#EXTINF:-1,MTV HITS
+http://tv.nousiptv.com:25462/072233/072233/3191
+
+#EXTINF:-1,COL - CARACOL HD (1080)
+http://tv.nousiptv.com:25462/072233/072233/3416
+
+#EXTINF:-1,COL - CARACOL (720 HD)
+http://tv.nousiptv.com:25462/072233/072233/3213
+
+#EXTINF:-1,COL - CARACOL
+http://tv.nousiptv.com:25462/072233/072233/4094
+
+#EXTINF:-1,COL - RCN HD
+http://tv.nousiptv.com:25462/072233/072233/4002
+
+#EXTINF:-1,COL - RCN HD (OP2)
+http://tv.nousiptv.com:25462/072233/072233/3415
+
+#EXTINF:-1,COL - RCN NOVELAS HD
+http://tv.nousiptv.com:25462/072233/072233/2125
+
+#EXTINF:-1,LIFETIME
+http://tv.nousiptv.com:25462/072233/072233/3073
+
+#EXTINF:-1,I-SAT
+http://tv.nousiptv.com:25462/072233/072233/3074
+
+#EXTINF:-1,HISTORY
+http://tv.nousiptv.com:25462/072233/072233/3234
+
 #EXTINF:-1,HBO
-http://tv.nousiptv.com:25462/Ivan/Ivan/3199
+http://tv.nousiptv.com:25462/072233/072233/3199
 
 #EXTINF:-1,HBO 2 HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3198
+http://tv.nousiptv.com:25462/072233/072233/3198
 
 #EXTINF:-1,HBO SIGNATURE HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3197
+http://tv.nousiptv.com:25462/072233/072233/3197
 
 #EXTINF:-1,HBO PLUS HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4003
+http://tv.nousiptv.com:25462/072233/072233/4003
 
 #EXTINF:-1,HBO ESTE HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3973
+http://tv.nousiptv.com:25462/072233/072233/3973
 
 #EXTINF:-1,HBO FAMILY HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4017
+http://tv.nousiptv.com:25462/072233/072233/4017
 
 #EXTINF:-1,ESPN PLUS SUR
-http://tv.nousiptv.com:25462/Ivan/Ivan/7940
+http://tv.nousiptv.com:25462/072233/072233/7940
 
-#EXTINF:-1,STARZ HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8132
+#EXTINF:-1,CHILE - FOX SPORTS CHILE HD
+http://tv.nousiptv.com:25462/072233/072233/27103
 
-#EXTINF:-1,STARZ IN BLACK
-http://tv.nousiptv.com:25462/Ivan/Ivan/8137
+#EXTINF:-1,CHILE - ESTADIO CDF
+http://tv.nousiptv.com:25462/072233/072233/6979
 
-#EXTINF:-1,STARZ CINEMA HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8136
+#EXTINF:-1,CHILE - CDF HD (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/16137
 
-#EXTINF:-1,STARZ COMEDY HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8135
+#EXTINF:-1,CHILE - CDF HD (720 HQ)
+http://tv.nousiptv.com:25462/072233/072233/3586
 
-#EXTINF:-1,STARZ KIDS & FAMILY
-http://tv.nousiptv.com:25462/Ivan/Ivan/8133
+#EXTINF:-1,CHILE - CDF HD (SD)
+http://tv.nousiptv.com:25462/072233/072233/16138
 
-#EXTINF:-1,STARZ WESTERN HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8134
+#EXTINF:-1,FOX PREMIUM MOVIES
+http://tv.nousiptv.com:25462/072233/072233/3266
 
-#EXTINF:-1,STARZ FAMILY HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8131
+#EXTINF:-1,FOX PREMIUM MOVIES (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/4023
 
-#EXTINF:-1,STARZ ENCORE HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8126
+#EXTINF:-1,FOX PREMIUM SERIES.
+http://tv.nousiptv.com:25462/072233/072233/3262
 
-#EXTINF:-1,STARZ ENCORE ACTION HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8128
+#EXTINF:-1,FOX PREMIUM SERIES (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/4020
 
-#EXTINF:-1,STARZ ENCORE BLACK
-http://tv.nousiptv.com:25462/Ivan/Ivan/8127
+#EXTINF:-1,FOX PREMIUM CINEMA
+http://tv.nousiptv.com:25462/072233/072233/3264
 
-#EXTINF:-1,STARZ ENCORE FAMILY HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8129
+#EXTINF:-1,FOX PREMIUM CINEMA HD
+http://tv.nousiptv.com:25462/072233/072233/8238
 
-#EXTINF:-1,SYFY HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4049
+#EXTINF:-1,FOX PREMIUM COMEDY
+http://tv.nousiptv.com:25462/072233/072233/3102
 
-#EXTINF:-1,UNIVERSAL CHANNEL HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4053
+#EXTINF:-1,FOX PREMIUM COMEDY HD
+http://tv.nousiptv.com:25462/072233/072233/8234
 
-#EXTINF:-1,WARNER TV HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4054
+#EXTINF:-1,FOX PREMIUM CLASSICS
+http://tv.nousiptv.com:25462/072233/072233/3077
 
-#EXTINF:-1,CINECANAL HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4068
+#EXTINF:-1,FOX PREMIUM CLASSICS HD
+http://tv.nousiptv.com:25462/072233/072233/8237
 
-#EXTINF:-1,AMC (1080 HQ).
-http://tv.nousiptv.com:25462/Ivan/Ivan/4085
+#EXTINF:-1,FOX PREMIUM ACTION
+http://tv.nousiptv.com:25462/072233/072233/3263
 
-#EXTINF:-1,GOLDEN PREMIERE (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4091
+#EXTINF:-1,FOX PREMIUM ACTION HD
+http://tv.nousiptv.com:25462/072233/072233/4019
 
-#EXTINF:-1,SPACE HD (1080 HQ)*
-http://tv.nousiptv.com:25462/Ivan/Ivan/4099
+#EXTINF:-1,FOX PREMIUM FAMILY
+http://tv.nousiptv.com:25462/072233/072233/4032
 
-#EXTINF:-1,SUNDANCE TV
-http://tv.nousiptv.com:25462/Ivan/Ivan/4101
+#EXTINF:-1,FOX PREMIUM FAMILY FHD (DUAL AUDIO)
+http://tv.nousiptv.com:25462/072233/072233/4084
 
-#EXTINF:-1,DISCOVERY CHANNEL HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4069
+#EXTINF:-1,BYN Ñ (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/3747
 
-#EXTINF:-1,DISCOVERY THEATER HD (1080 HQ)*
-http://tv.nousiptv.com:25462/Ivan/Ivan/4073
+#EXTINF:-1,TDN (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/3963
 
-#EXTINF:-1,DISCOVERY INVESTIGATION (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4071
+#EXTINF:-1,UNIVISION TDN (720 HD)
+http://tv.nousiptv.com:25462/072233/072233/4117
 
-#EXTINF:-1,DISCOVERY WORLD HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4076
+#EXTINF:-1,APLICACION DIABOLICA
+http://tv.nousiptv.com:25462/movie/072233/072233/6111.mkv
 
-#EXTINF:-1,DISCOVERY TLC HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4074
+#EXTINF:-1,LA POSESION DE VERONICA
+http://tv.nousiptv.com:25462/movie/072233/072233/2781.mkv
 
-#EXTINF:-1,DISCOVERY KIDS HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4072
+#EXTINF:-1,LA ULTIMA TENTACION DE CRISTO
+http://tv.nousiptv.com:25462/movie/072233/072233/2998.mkv
 
-#EXTINF:-1,DISCOVERY TURBO HD (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4075
+#EXTINF:-1,UNIVISION DEPORTES (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/3962
 
-#EXTINF:-1,MTV LIVE
-http://tv.nousiptv.com:25462/Ivan/Ivan/3072
+#EXTINF:-1,UNIVISION TDN USA
+http://tv.nousiptv.com:25462/072233/072233/3751
 
-#EXTINF:-1,MTV LATINO
-http://tv.nousiptv.com:25462/Ivan/Ivan/3192
+#EXTINF:-1,USA - PAC 12 LOS ANGELES
+http://tv.nousiptv.com:25462/072233/072233/3364
 
-#EXTINF:-1,HOLA TV
-http://tv.nousiptv.com:25462/Ivan/Ivan/3075
+#EXTINF:-1,USA - PAC 12 WASHINGTON
+http://tv.nousiptv.com:25462/072233/072233/3373
 
-#EXTINF:-1,NICK TOONS (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/3220
+#EXTINF:-1,USA - PAC 12 NETWORK
+http://tv.nousiptv.com:25462/072233/072233/3375
 
-#EXTINF:-1,CARTOON NETWORK (1080 HQ).
-http://tv.nousiptv.com:25462/Ivan/Ivan/4063
+#EXTINF:-1,USA - PAC 12 OREGON
+http://tv.nousiptv.com:25462/072233/072233/3374
 
-#EXTINF:-1,COMEDY CENTRAL HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4039
+#EXTINF:-1,USA - PAC 12 ARIZONA
+http://tv.nousiptv.com:25462/072233/072233/3799
 
-#EXTINF:-1,EL GOURMET HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4042
+#EXTINF:-1,USA - PAC 12 BAY AREA
+http://tv.nousiptv.com:25462/072233/072233/3368
 
-#EXTINF:-1,FOOD NETWORK (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4057
+#EXTINF:-1,USA - PAC 12 MOUNTAIN
+http://tv.nousiptv.com:25462/072233/072233/3369
 
-#EXTINF:-1,NICK 2 (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4064
+#EXTINF:-1,USA - ESPN
+http://tv.nousiptv.com:25462/072233/072233/3371
 
-#EXTINF:-1,NICKELODEON FHD (DUAL AUDIO)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4058
+#EXTINF:-1,USA - ESPN 2
+http://tv.nousiptv.com:25462/072233/072233/3372
 
-#EXTINF:-1,TOON CAST (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4051
+#EXTINF:-1,FOX DEPORTES USA HD
+http://tv.nousiptv.com:25462/072233/072233/3753
 
-#EXTINF:-1,ANIMAL PLANET (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4067
+#EXTINF:-1,ESPN DEPORTES USA HD
+http://tv.nousiptv.com:25462/072233/072233/3613
 
-#EXTINF:-1,LIFETIME (1080 HQ).
-http://tv.nousiptv.com:25462/Ivan/Ivan/4077
-
-#EXTINF:-1,NAT GEO KIDS (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4078
-
-#EXTINF:-1,NATGEO WILD HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4079
-
-#EXTINF:-1,NATGEO HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4097
-
-#EXTINF:-1,I -SAT (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4098
-
-#EXTINF:-1,STUDIO UNIVERSAL HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4100
-
-#EXTINF:-1,DISNEY XD (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4102
-
-#EXTINF:-1,BOOMERANG HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4061
-
-#EXTINF:-1,DISTRITO COMEDIA (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4040
-
-#EXTINF:-1,GLITZ (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4045
-
-#EXTINF:-1,BABY FIRST (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4088
-
-#EXTINF:-1,BLOOMBERG (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4089
-
-#EXTINF:-1,ESPN (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4080
-
-#EXTINF:-1,ESPN PLUS (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4081
-
-#EXTINF:-1,UFC  NETWORK (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4082
-
-#EXTINF:-1,USA - THE GOLF CHANNEL
-http://tv.nousiptv.com:25462/Ivan/Ivan/4092
-
-#EXTINF:-1,HISTORY HD (1080 HQ)**
-http://tv.nousiptv.com:25462/Ivan/Ivan/4093
-
-#EXTINF:-1,MTV (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4083
-
-#EXTINF:-1,MTV LIVE (1080 HQ).
-http://tv.nousiptv.com:25462/Ivan/Ivan/4096
-
-#EXTINF:-1,TCM (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4106
-
-#EXTINF:-1,WOBI TV (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4107
-
-#EXTINF:-1,TIIN
-http://tv.nousiptv.com:25462/Ivan/Ivan/3062
-
-#EXTINF:-1,ES - A3 SERIES
-http://tv.nousiptv.com:25462/Ivan/Ivan/3961
-
-#EXTINF:-1,USA - CNN (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/3967
-
-#EXTINF:-1,FILM & ARTS HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3966
-
-#EXTINF:-1,MAS CHIC (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4047
-
-#EXTINF:-1,HBO 2 FHD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4095
-
-#EXTINF:-1,ES - ANTENA 3 INTERNACIONAL
-http://tv.nousiptv.com:25462/Ivan/Ivan/4108
-
-#EXTINF:-1,HBO PLUS HD (1080 HQ)*
-http://tv.nousiptv.com:25462/Ivan/Ivan/4109
-
-#EXTINF:-1,CINEMAX (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4110
-
-#EXTINF:-1,DISNEY JR HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4111
-
-#EXTINF:-1,HBO Full HD (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4112
-
-#EXTINF:-1,RT NOTICIAS
-http://tv.nousiptv.com:25462/Ivan/Ivan/4113
-
-#EXTINF:-1,BABY TV (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4116
-
-#EXTINF:-1,AMC
-http://tv.nousiptv.com:25462/Ivan/Ivan/4118
-
-#EXTINF:-1,CINE LATINO
-http://tv.nousiptv.com:25462/Ivan/Ivan/4136
-
-#EXTINF:-1,DISCOVERY ID
-http://tv.nousiptv.com:25462/Ivan/Ivan/4123
-
-#EXTINF:-1,DISCOVERY THEATHER
-http://tv.nousiptv.com:25462/Ivan/Ivan/4119
-
-#EXTINF:-1,FOOD NETWORK
-http://tv.nousiptv.com:25462/Ivan/Ivan/4146
-
-#EXTINF:-1,FOX 1 HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/4121
-
-#EXTINF:-1,CLARO CINEMA
-http://tv.nousiptv.com:25462/Ivan/Ivan/4145
-
-#EXTINF:-1,MAS CHIC.
-http://tv.nousiptv.com:25462/Ivan/Ivan/4124
-
-#EXTINF:-1,MX - IMAGEN TV
-http://tv.nousiptv.com:25462/Ivan/Ivan/4149
-
-#EXTINF:-1,TELENOVELAS
-http://tv.nousiptv.com:25462/Ivan/Ivan/4130
-
-#EXTINF:-1,NATGEO
-http://tv.nousiptv.com:25462/Ivan/Ivan/4126
-
-#EXTINF:-1,NATGEO KIDS
-http://tv.nousiptv.com:25462/Ivan/Ivan/4144
-
-#EXTINF:-1,NICK JR
-http://tv.nousiptv.com:25462/Ivan/Ivan/4127
-
-#EXTINF:-1,NICK 2
-http://tv.nousiptv.com:25462/Ivan/Ivan/4140
-
-#EXTINF:-1,XXX - PINK EROTIC 6
-http://tv.nousiptv.com:25462/Ivan/Ivan/3463
-
-#EXTINF:-1,XXX - HUSTLER HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3462
-
-#EXTINF:-1,XXX - FUNDORADO
-http://tv.nousiptv.com:25462/Ivan/Ivan/3467
-
-#EXTINF:-1,XXX - SEXTREME 1
-http://tv.nousiptv.com:25462/Ivan/Ivan/3464
-
-#EXTINF:-1,XXX - PLAY BOY
-http://tv.nousiptv.com:25462/Ivan/Ivan/3465
-
-#EXTINF:-1,XXX - VENUS
-http://tv.nousiptv.com:25462/Ivan/Ivan/3466
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD (1080 HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS HD (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/7863
-
-http://tv.nousiptv.com:25462/072233/072233/7863
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DIRECTV SPORTS HD (720 HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS HD (720 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/24962
-
+#EXTINF:-1,DIRECTV SPORTS HD (720 HQ)
 http://tv.nousiptv.com:25462/072233/072233/24962
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD (1080 HQ)" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS 2 HD (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/27879
 
+#EXTINF:-1,DIRECTV SPORTS 2 HD
 http://tv.nousiptv.com:25462/072233/072233/27879
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS 2 HD (720 HQ)" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS 2 HD (720 HQ)
-http://tv.nousiptv.com:25462/072233/072233/9565
-#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS PLUS HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/8520
 
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS HD (ECUADOR)" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/small.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.aa7eeeb868173f97fabaefe9649ec564.png" group-title="ECUADOR",ECU - DIRECTV SPORTS HD (ECUADOR)
-http://tv.nousiptv.com:25462/Ivan/Ivan/23239
-
-#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS / GOL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV FHD
-http://tv.nousiptv.com:25462/Ivan/Ivan/7471
-
-#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS SD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3180
-
-#EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV (LOCAL)" tvg-logo="https://www.estadio.ec/sites/default/files/fotos/2017/07/28/goltv-conmebol-28-07-2017-2.png" group-title="ECUADOR",ECU - GOL TV (LOCAL)
-http://tv.nousiptv.com:25462/Ivan/Ivan/25753
-
-#EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV" tvg-logo="http://radiohuancavilca.com.ec/wp-content/uploads/2017/06/goltv.jpg" group-title="ECUADOR",ECU - GOL TV
-http://tv.nousiptv.com:25462/Ivan/Ivan/7438
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 SUR HD (1080 HQ)" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",FOX SPORTS 1 SUR HD (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/3611
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 SUR HD (720)" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",FOX SPORTS 1 SUR HD (720)
-http://tv.nousiptv.com:25462/Ivan/Ivan/3612
-
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 SUR HD (1080 HQ)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •",FOX SPORTS 2 SUR HD (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/2046
-
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 SUR HD (720)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •",FOX SPORTS 2 SUR HD (720)
-http://tv.nousiptv.com:25462/Ivan/Ivan/16139
-
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX SPORTS 3 SUR HD (1080 HQ)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpHSN1Z-ExlLx350GEeMefxFYaoGzE6J6lJcilroSL-LvwVvquA" group-title="• LATINO DEPORTES •",FOX SPORTS 3 SUR HD (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/2045
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN SUR" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",ESPN SUR
-http://tv.nousiptv.com:25462/Ivan/Ivan/3614
-
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 SUR" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •",ESPN 3 SUR
-http://tv.nousiptv.com:25462/Ivan/Ivan/3615
-
-#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MX - CANAL 5 (720 HD)" tvg-logo="http://www.mediafire.com/convkey/4579/wf556q76db9iubmzg.jpg" group-title="MEXICO",MX - CANAL 5 (720 HD)
-http://tv.nousiptv.com:25462/Ivan/Ivan/3244
-
-#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN (1080 HQ)" tvg-logo="http://multipress.com.mx/wp-content/uploads/2016/10/multi-TDN.jpg" group-title="• LATINO DEPORTES •",TDN (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/3963
-
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="UNIVISION TDN (720 HD)" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/univision_tdn.png" group-title="• LATINO DEPORTES •",UNIVISION TDN (720 HD)
-http://tv.nousiptv.com:25462/Ivan/Ivan/4117
-
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="UNIVISION DEPORTES (1080 HQ)" tvg-logo="https://22958-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/07/Univision_Deportes.png" group-title="• LATINO DEPORTES •",UNIVISION DEPORTES (1080 HQ)
-http://tv.nousiptv.com:25462/Ivan/Ivan/3962
-
+#EXTINF:-1,DIRECTV SPORTS PLUS HD
 http://tv.nousiptv.com:25462/072233/072233/8520
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3433
 
+#EXTINF:-1,ECU - ECUAVISA HD
 http://tv.nousiptv.com:25462/072233/072233/3433
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA
-http://tv.nousiptv.com:25462/Ivan/Ivan/8084
 
+#EXTINF:-1,ECU - ECUAVISA
 http://tv.nousiptv.com:25462/072233/072233/8084
-#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO HD" tvg-logo="http://www.mediafire.com/convkey/4100/he9qkdekgmruyrszg.jpg" group-title="ECUADOR",ECU - CANAL UNO HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3436
 
+#EXTINF:-1,ECU - CANAL UNO HD
 http://tv.nousiptv.com:25462/072233/072233/3436
-#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="ECUADOR",ECU - CANAL UNO
-http://tv.nousiptv.com:25462/Ivan/Ivan/8083
 
+#EXTINF:-1,ECU - CANAL UNO
 http://tv.nousiptv.com:25462/072233/072233/8083
-#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS HD" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",ECU - TELEAMAZONAS HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/7532
 
+#EXTINF:-1,ECU - TELEAMAZONAS HD
 http://tv.nousiptv.com:25462/072233/072233/7532
-#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",ECU - TELEAMAZONAS
-http://tv.nousiptv.com:25462/Ivan/Ivan/3428
 
+#EXTINF:-1,ECU - TELEAMAZONAS
 http://tv.nousiptv.com:25462/072233/072233/3428
-#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMA TV HD" tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="ECUADOR",ECU - GAMA TV HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3432
 
+#EXTINF:-1,ECU - GAMA TV HD
 http://tv.nousiptv.com:25462/072233/072233/3432
-#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMA TV" tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="ECUADOR",ECU - GAMA TV
-http://tv.nousiptv.com:25462/Ivan/Ivan/8085
 
+#EXTINF:-1,ECU - GAMA TV
 http://tv.nousiptv.com:25462/072233/072233/8085
-#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="ECU - OROMAR TV HD" tvg-logo="http://www.mediafire.com/convkey/7945/ne4d8dxraya611bzg.jpg" group-title="ECUADOR",ECU - OROMAR TV HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/3431
 
+#EXTINF:-1,ECU - OROMAR TV HD
 http://tv.nousiptv.com:25462/072233/072233/3431
-#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",ECU - RTS HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/7534
 
+#EXTINF:-1,ECU - RTS HD
 http://tv.nousiptv.com:25462/072233/072233/7534
-#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS" tvg-logo="http://www.mediafire.com/convkey/c789/tfn5nd84vwi8py8zg.jpg" group-title="ECUADOR",ECU - RTS
-http://tv.nousiptv.com:25462/Ivan/Ivan/3430
 
+#EXTINF:-1,ECU - RTS
 http://tv.nousiptv.com:25462/072233/072233/3430
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/09/ed/8e/09ed8ed6be0255ed4281a245b6528209.jpg" group-title="ECUADOR",ECU - TC TELEVISION HD
-http://tv.nousiptv.com:25462/Ivan/Ivan/7533
 
+#EXTINF:-1,ECU - TC TELEVISION HD
 http://tv.nousiptv.com:25462/072233/072233/7533
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION
-http://tv.nousiptv.com:25462/Ivan/Ivan/3429
+
+#EXTINF:-1,ECU - TC TELEVISION
+http://tv.nousiptv.com:25462/072233/072233/3429
+
+#EXTINF:-1,ECU - ECUADOR TV
+http://tv.nousiptv.com:25462/072233/072233/3434
+
+#EXTINF:-1,FOX SPORTS MX
+http://tv.nousiptv.com:25462/072233/072233/3267
+
+#EXTINF:-1,FOX SPORTS 2 MX
+http://tv.nousiptv.com:25462/072233/072233/3268
+
+#EXTINF:-1,FOX SPORTS 3 MX
+http://tv.nousiptv.com:25462/072233/072233/4008
 
 #EXTINF:-1,ESPN MX HD
 http://tv.nousiptv.com:25462/072233/072233/3258
@@ -592,3 +516,210 @@ http://tv.nousiptv.com:25462/072233/072233/3260
 
 #EXTINF:-1,ESPN PLUS MX
 http://tv.nousiptv.com:25462/072233/072233/4120
+
+#EXTINF:-1,CHILE -  HBO HD (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/29484
+
+#EXTINF:-1,CHILE - HBO HD (720 HQ)
+http://tv.nousiptv.com:25462/072233/072233/29483
+
+#EXTINF:-1,CHILE - MEGA HD
+http://tv.nousiptv.com:25462/072233/072233/2148
+
+#EXTINF:-1,CHILE - MEGA
+http://tv.nousiptv.com:25462/072233/072233/3343
+
+#EXTINF:-1,CHILE - MEGA PLUS
+http://tv.nousiptv.com:25462/072233/072233/22562
+
+#EXTINF:-1,CHILE - TVN HD
+http://tv.nousiptv.com:25462/072233/072233/2151
+
+#EXTINF:-1,CHILE - TVN
+http://tv.nousiptv.com:25462/072233/072233/3592
+
+#EXTINF:-1,CHILE - CHILEVISION  HD
+http://tv.nousiptv.com:25462/072233/072233/2147
+
+#EXTINF:-1,CHILE - CHILEVISION
+http://tv.nousiptv.com:25462/072233/072233/3591
+
+#EXTINF:-1,CHILE - CANAL 13 HD
+http://tv.nousiptv.com:25462/072233/072233/6847
+
+#EXTINF:-1,CHILE - CANAL 13
+http://tv.nousiptv.com:25462/072233/072233/3853
+
+#EXTINF:-1,ARG - FOX SPORTS PREMIUM HD (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/2963
+
+#EXTINF:-1,ARG - FOX SPORTS PREMIUM HD (720 HQ)
+http://tv.nousiptv.com:25462/072233/072233/8330
+
+#EXTINF:-1,FOX SPORTS CHILE HD
+http://tv.nousiptv.com:25462/072233/072233/2047
+
+#EXTINF:-1,FOX SPORTS 1 SUR HD (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/3611
+
+#EXTINF:-1,FOX SPORTS 1 SUR HD (720)
+http://tv.nousiptv.com:25462/072233/072233/3612
+
+#EXTINF:-1,ARG - TNT SPORTS (1080 HD)
+http://tv.nousiptv.com:25462/072233/072233/8331
+
+#EXTINF:-1,ARG - TNT SPORTS (720 HD)
+http://tv.nousiptv.com:25462/072233/072233/2957
+
+#EXTINF:-1,FOX SPORTS 2 SUR HD (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/2046
+
+#EXTINF:-1,FOX SPORTS 2 SUR HD (720)
+http://tv.nousiptv.com:25462/072233/072233/16139
+
+#EXTINF:-1,FOX SPORTS 3 SUR HD (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/2045
+
+#EXTINF:-1,ESPN SUR
+http://tv.nousiptv.com:25462/072233/072233/3614
+
+#EXTINF:-1,ESPN 2 SUR
+http://tv.nousiptv.com:25462/072233/072233/3616
+
+#EXTINF:-1,ESPN 3 SUR
+http://tv.nousiptv.com:25462/072233/072233/3615
+
+#EXTINF:-1,TYC SPORTS HD
+http://tv.nousiptv.com:25462/072233/072233/3759
+
+#EXTINF:-1,UNIMAS HD
+http://tv.nousiptv.com:25462/072233/072233/3795
+
+#EXTINF:-1,NATGEO MUNDO
+http://tv.nousiptv.com:25462/072233/072233/3774
+
+#EXTINF:-1,RT ESPAÑOL
+http://tv.nousiptv.com:25462/072233/072233/2064
+
+#EXTINF:-1,LAT [USA] - DW LATINOAMERICA
+http://tv.nousiptv.com:25462/072233/072233/2102
+
+#EXTINF:-1,UFC FIGHT LATINOAMERICA
+http://tv.nousiptv.com:25462/072233/072233/3421
+
+#EXTINF:-1,ARG - TYC SPORTS HD
+http://tv.nousiptv.com:25462/072233/072233/2961
+
+#EXTINF:-1,ARG - GOL TV
+http://tv.nousiptv.com:25462/072233/072233/2039
+
+#EXTINF:-1,ARG - EL TRECE HD
+http://tv.nousiptv.com:25462/072233/072233/7431
+
+#EXTINF:-1,ARG - EL TRECE
+http://tv.nousiptv.com:25462/072233/072233/8183
+
+#EXTINF:-1,ARG - TELEFE HD
+http://tv.nousiptv.com:25462/072233/072233/3439
+
+#EXTINF:-1,ARG - TELEFE
+http://tv.nousiptv.com:25462/072233/072233/17901
+
+#EXTINF:-1,GOL TV (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/3755
+
+#EXTINF:-1,COL - WIN SPORTS HD (1080)
+http://tv.nousiptv.com:25462/072233/072233/3271
+
+#EXTINF:-1,COL - WIN SPORTS HD (720)
+http://tv.nousiptv.com:25462/072233/072233/3057
+
+#EXTINF:-1,NTV 02 [ RIVER VS PARANAENSE VIVO]
+http://tv.nousiptv.com:25462/072233/072233/16143
+
+#EXTINF:-1,CR - TELEUNO
+http://tv.nousiptv.com:25462/072233/072233/2043
+
+#EXTINF:-1,URU - CANAL 10 HD*
+http://tv.nousiptv.com:25462/072233/072233/3058
+
+#EXTINF:-1,URU - CANAL 10
+http://tv.nousiptv.com:25462/072233/072233/3344
+
+#EXTINF:-1,URU - TELE12 HD
+http://tv.nousiptv.com:25462/072233/072233/3620
+
+#EXTINF:-1,URU - TELE12
+http://tv.nousiptv.com:25462/072233/072233/18731
+
+#EXTINF:-1,URU - CANAL 4 HD
+http://tv.nousiptv.com:25462/072233/072233/8334
+
+#EXTINF:-1,URU - CANAL 4
+http://tv.nousiptv.com:25462/072233/072233/18261
+
+#EXTINF:-1,URU - CANAL 5 (TNU)
+http://tv.nousiptv.com:25462/072233/072233/19351
+
+#EXTINF:-1,URU - TV CIUDAD
+http://tv.nousiptv.com:25462/072233/072233/19352
+
+#EXTINF:-1,URU - VTV HD (1080 HQ)
+http://tv.nousiptv.com:25462/072233/072233/3802
+
+#EXTINF:-1,URU - VTV HD
+http://tv.nousiptv.com:25462/072233/072233/22204
+
+#EXTINF:-1,URU - VTV SD
+http://tv.nousiptv.com:25462/072233/072233/3598
+
+#EXTINF:-1,URU - VTV +
+http://tv.nousiptv.com:25462/072233/072233/19354
+
+#EXTINF:-1,URU - VERA +
+http://tv.nousiptv.com:25462/072233/072233/16136
+
+#EXTINF:-1,URU - DIRECTV SPORTS URUGUAY
+http://tv.nousiptv.com:25462/072233/072233/2041
+
+#EXTINF:-1,URU - FOX SPORTS URUGUAY HD
+http://tv.nousiptv.com:25462/072233/072233/3621
+
+#EXTINF:-1,ARG - AMERICA TV HD
+http://tv.nousiptv.com:25462/072233/072233/27
+
+#EXTINF:-1,ARG - AMERICA TV
+http://tv.nousiptv.com:25462/072233/072233/2040
+
+#EXTINF:-1,ARG - EL NUEVE HD
+http://tv.nousiptv.com:25462/072233/072233/3438
+
+#EXTINF:-1,ARG - EL NUEVE
+http://tv.nousiptv.com:25462/072233/072233/23229
+
+#EXTINF:-1,ARG - TV PUBLICA HD
+http://tv.nousiptv.com:25462/072233/072233/3417
+
+#EXTINF:-1,ARG - TN HD
+http://tv.nousiptv.com:25462/072233/072233/2959
+
+#EXTINF:-1,ES - ANDALUCIA TURISMO
+http://tv.nousiptv.com:25462/072233/072233/3610
+
+#EXTINF:-1,ARG - CANAL 2 HD TELEPIN
+http://tv.nousiptv.com:25462/072233/072233/4188
+
+#EXTINF:-1,ARG - C5N
+http://tv.nousiptv.com:25462/072233/072233/3441
+
+#EXTINF:-1,ARG - CN23
+http://tv.nousiptv.com:25462/072233/072233/23230
+
+#EXTINF:-1,ARG - A24 HD
+http://tv.nousiptv.com:25462/072233/072233/3359
+
+#EXTINF:-1,ARG - CANAL 26
+http://tv.nousiptv.com:25462/072233/072233/3442
+
+#EXTINF:-1,ARG - TLX HD
+http://tv.nousiptv.com:25462/072233/072233/3437
