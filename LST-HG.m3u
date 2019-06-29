@@ -1,5 +1,7 @@
 #EXTM3U  
 #EXTINF:-1,LISTA HG
+#EXTINF:-1 CANAL DEL FUTBOL
+http://wowzaprod259-i.akamaihd.net/hls/live/802704/916abee9/916abee9_1_1152/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD (1080 HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="• LATINO DEPORTES •",DIRECTV SPORTS HD (1080 HQ)
 http://tv.nousiptv.com:25462/072233/072233/7863
 
