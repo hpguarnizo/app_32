@@ -61,7 +61,7 @@ https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8?sd=10&
 #extinf:-1,bein sports
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/5e366d7042be4cea696aeee3b4bf361768237de6/0ed7b84eff58272d1ee1913e8a33f46d242bf8cc/95_6.m3u8
 
-#EXTINF:-1,Unknown 0
+#EXTINF:-1,Directv Sports
 http://apptv-mx.com:9999/live/sinadultos/666noratas/532.ts
 
 #EXTINF:-1,Misterio a bordo
