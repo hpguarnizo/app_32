@@ -18,3 +18,1011 @@ http://api.new.livestream.com/accounts/280758/events/8705297/live.m3u8
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="",UCSG (Opt-2)
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#***********************************************************************
+#EXTM3U
+#EXTINF:-1,Portada
+http://www.home66.tv:8000/ab065/kfj065/6992
+#EXTINF:-1,LA 1 HD
+http://www.home66.tv:8000/ab065/kfj065/7028
+#EXTINF:-1,LA 1
+http://www.home66.tv:8000/ab065/kfj065/171
+#EXTINF:-1,LA 2 HD
+http://www.home66.tv:8000/ab065/kfj065/7115
+#EXTINF:-1,LA 2
+http://www.home66.tv:8000/ab065/kfj065/173
+#EXTINF:-1,ANTENA 3 HD
+http://www.home66.tv:8000/ab065/kfj065/106
+#EXTINF:-1,ANTENA 3
+http://www.home66.tv:8000/ab065/kfj065/105
+#EXTINF:-1,CUATRO HD
+http://www.home66.tv:8000/ab065/kfj065/3720
+#EXTINF:-1,CUATRO
+http://www.home66.tv:8000/ab065/kfj065/147
+#EXTINF:-1,TELECINCO HD
+http://www.home66.tv:8000/ab065/kfj065/228
+#EXTINF:-1,TELECINCO
+http://www.home66.tv:8000/ab065/kfj065/3787
+#EXTINF:-1,LA SEXTA HD
+http://www.home66.tv:8000/ab065/kfj065/175
+#EXTINF:-1,LA SEXTA
+http://www.home66.tv:8000/ab065/kfj065/174
+#EXTINF:-1,#0HD
+http://www.home66.tv:8000/ab065/kfj065/5470
+#EXTINF:-1,#0
+http://www.home66.tv:8000/ab065/kfj065/99
+#EXTINF:-1,MOVISTAR SERIES HD
+http://www.home66.tv:8000/ab065/kfj065/253
+#EXTINF:-1,MOVISTAR  SERIES
+http://www.home66.tv:8000/ab065/kfj065/184
+#EXTINF:-1,MOVISTAR  SERIESMANIA HD
+http://www.home66.tv:8000/ab065/kfj065/186
+#EXTINF:-1,MOVISTAR  SERIESMANIA
+http://www.home66.tv:8000/ab065/kfj065/185
+#EXTINF:-1,MOVISTAR DE CINE ESPAÑA
+http://www.home66.tv:8000/ab065/kfj065/2401
+#EXTINF:-1,FOX HD
+http://www.home66.tv:8000/ab065/kfj065/162
+#EXTINF:-1,FOX
+http://www.home66.tv:8000/ab065/kfj065/161
+#EXTINF:-1,AXN HD
+http://www.home66.tv:8000/ab065/kfj065/109
+#EXTINF:-1,AXN
+http://www.home66.tv:8000/ab065/kfj065/108
+#EXTINF:-1,TNT HD
+http://www.home66.tv:8000/ab065/kfj065/232
+#EXTINF:-1,TNT
+http://www.home66.tv:8000/ab065/kfj065/231
+#EXTINF:-1,CENTRAL COMEDY HD
+http://www.home66.tv:8000/ab065/kfj065/6990
+#EXTINF:-1,CENTRAL COMEDY
+http://www.home66.tv:8000/ab065/kfj065/714
+#EXTINF:-1,CALLE 13 HD
+http://www.home66.tv:8000/ab065/kfj065/244
+#EXTINF:-1,CALLE 13
+http://www.home66.tv:8000/ab065/kfj065/134
+#EXTINF:-1,COSMOPOLITAN HD
+http://www.home66.tv:8000/ab065/kfj065/146
+#EXTINF:-1,COSMOPOLITAN
+http://www.home66.tv:8000/ab065/kfj065/145
+#EXTINF:-1,MTV ESPAÑA
+http://www.home66.tv:8000/ab065/kfj065/201
+#EXTINF:-1,ASTRESSERIES
+http://www.home66.tv:8000/ab065/kfj065/997
+#EXTINF:-1,BeMad tv
+http://www.home66.tv:8000/ab065/kfj065/1015
+#EXTINF:-1,MTMAD TV
+http://www.home66.tv:8000/ab065/kfj065/6018
+#EXTINF:-1,Fdf
+http://www.home66.tv:8000/ab065/kfj065/306
+#EXTINF:-1,ENERGY
+http://www.home66.tv:8000/ab065/kfj065/157
+#EXTINF:-1,DIVINITY
+http://www.home66.tv:8000/ab065/kfj065/155
+#EXTINF:-1,NOVA
+http://www.home66.tv:8000/ab065/kfj065/217
+#EXTINF:-1,NEOX
+http://www.home66.tv:8000/ab065/kfj065/205
+#EXTINF:-1,MEGA
+http://www.home66.tv:8000/ab065/kfj065/776
+#EXTINF:-1,DKISS
+http://www.home66.tv:8000/ab065/kfj065/3714
+#EXTINF:-1,MOVISTAR ESTRENOS HD
+http://www.home66.tv:8000/ab065/kfj065/255
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://www.home66.tv:8000/ab065/kfj065/192
+#EXTINF:-1,MOVISTAR ACCION HD
+http://www.home66.tv:8000/ab065/kfj065/187
+#EXTINF:-1,MOVISTAR  ACCION
+http://www.home66.tv:8000/ab065/kfj065/181
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://www.home66.tv:8000/ab065/kfj065/189
+#EXTINF:-1,MOVISTAR COMEDIA
+http://www.home66.tv:8000/ab065/kfj065/188
+#EXTINF:-1,MOVISTAR DRAMA HD
+http://www.home66.tv:8000/ab065/kfj065/190
+#EXTINF:-1,MOVISTAR DRAMA
+http://www.home66.tv:8000/ab065/kfj065/149
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD
+http://www.home66.tv:8000/ab065/kfj065/254
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL
+http://www.home66.tv:8000/ab065/kfj065/200
+#EXTINF:-1,MOVISTAR DISNEY
+http://www.home66.tv:8000/ab065/kfj065/4044
+#EXTINF:-1,TCM HD
+http://www.home66.tv:8000/ab065/kfj065/226
+#EXTINF:-1,TCM
+http://www.home66.tv:8000/ab065/kfj065/225
+#EXTINF:-1,HOLLYWOOD HD
+http://www.home66.tv:8000/ab065/kfj065/169
+#EXTINF:-1,HOLLYWOOD
+http://www.home66.tv:8000/ab065/kfj065/168
+#EXTINF:-1,SUNDANCE
+http://www.home66.tv:8000/ab065/kfj065/223
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://www.home66.tv:8000/ab065/kfj065/219
+#EXTINF:-1,DANZ ESPAÑA
+http://www.home66.tv:8000/ab065/kfj065/6113
+#EXTINF:-1,VAMOS HD
+http://www.home66.tv:8000/ab065/kfj065/6203
+#EXTINF:-1,VAMOS
+http://www.home66.tv:8000/ab065/kfj065/150
+#EXTINF:-1,MOVISTAR LA LIGA HD
+http://www.home66.tv:8000/ab065/kfj065/6201
+#EXTINF:-1,MOVISTAR LALIGA
+http://www.home66.tv:8000/ab065/kfj065/113
+#EXTINF:-1,MOVISTAR Laliga 1 HD
+http://www.home66.tv:8000/ab065/kfj065/2690
+#EXTINF:-1,MOVISTAR Laliga 2 HD
+http://www.home66.tv:8000/ab065/kfj065/6114
+#EXTINF:-1,MOVISTAR Laliga 1
+http://www.home66.tv:8000/ab065/kfj065/3811
+#EXTINF:-1,MOVISTAR Laliga 2
+http://www.home66.tv:8000/ab065/kfj065/2692
+#EXTINF:-1,MOVISTAR Laliga 3
+http://www.home66.tv:8000/ab065/kfj065/2693
+#EXTINF:-1,MOVISTAR Laliga 4
+http://www.home66.tv:8000/ab065/kfj065/2694
+#EXTINF:-1,MOVISTAR Laliga 5
+http://www.home66.tv:8000/ab065/kfj065/2695
+#EXTINF:-1,LA LIGA TV  HD
+http://www.home66.tv:8000/ab065/kfj065/177
+#EXTINF:-1,Laliga TV M1
+http://www.home66.tv:8000/ab065/kfj065/2689
+#EXTINF:-1,Laliga tv 2
+http://www.home66.tv:8000/ab065/kfj065/5751
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD
+http://www.home66.tv:8000/ab065/kfj065/6878
+#EXTINF:-1,M.LIGA DE CAMPEONES
+http://www.home66.tv:8000/ab065/kfj065/6023
+#EXTINF:-1,MOVISTAR CAMPEONES 1HD
+http://www.home66.tv:8000/ab065/kfj065/6111
+#EXTINF:-1,MOVISTAR CAMPEONES 2HD
+http://www.home66.tv:8000/ab065/kfj065/6112
+#EXTINF:-1,M.LIGA DE CAMPEONES 1
+http://www.home66.tv:8000/ab065/kfj065/117
+#EXTINF:-1,M.LIGA DE CAMPEONES 2
+http://www.home66.tv:8000/ab065/kfj065/118
+#EXTINF:-1,M.LIGA DE CAMPEONES 3
+http://www.home66.tv:8000/ab065/kfj065/119
+#EXTINF:-1,M.LIGA DE CAMPEONES 4
+http://www.home66.tv:8000/ab065/kfj065/120
+#EXTINF:-1,M.LIGA DE CAMPEONES 5
+http://www.home66.tv:8000/ab065/kfj065/121
+#EXTINF:-1,M.LIGA DE CAMPEONES 6
+http://www.home66.tv:8000/ab065/kfj065/122
+#EXTINF:-1,M.LIGA DE CAMPEONES 7
+http://www.home66.tv:8000/ab065/kfj065/123
+#EXTINF:-1,M.LIGA DE CAMPEONES 8
+http://www.home66.tv:8000/ab065/kfj065/124
+#EXTINF:-1,MOVISTAR DEPORTES  HD
+http://www.home66.tv:8000/ab065/kfj065/251
+#EXTINF:-1,MOVISTAR DEPORTES 1 HD
+http://www.home66.tv:8000/ab065/kfj065/7120
+#EXTINF:-1,MOVISTAR DEPORTES
+http://www.home66.tv:8000/ab065/kfj065/191
+#EXTINF:-1,MOVISTAR DEPORTES 1
+http://www.home66.tv:8000/ab065/kfj065/7119
+#EXTINF:-1,MOVISTAR DEPORTES 2
+http://www.home66.tv:8000/ab065/kfj065/2670
+#EXTINF:-1,MOVISTAR DEPORTES 3
+http://www.home66.tv:8000/ab065/kfj065/2671
+#EXTINF:-1,MOVISTAR DEPORTES 4
+http://www.home66.tv:8000/ab065/kfj065/2672
+#EXTINF:-1,MOVISTAR DEPORTES 5
+http://www.home66.tv:8000/ab065/kfj065/7121
+#EXTINF:-1,MOVISTAR DEPORTES 6
+http://www.home66.tv:8000/ab065/kfj065/7124
+#EXTINF:-1,MOVISTAR DEPORTES 7
+http://www.home66.tv:8000/ab065/kfj065/7125
+#EXTINF:-1,MOVISTAR F1 HD
+http://www.home66.tv:8000/ab065/kfj065/194
+#EXTINF:-1,MOVISTAR F1
+http://www.home66.tv:8000/ab065/kfj065/193
+#EXTINF:-1,MOVISTAR GOLF HD
+http://www.home66.tv:8000/ab065/kfj065/196
+#EXTINF:-1,MOVISTAR  GOLF
+http://www.home66.tv:8000/ab065/kfj065/183
+#EXTINF:-1,EUROSPORT 1 HD
+http://www.home66.tv:8000/ab065/kfj065/246
+#EXTINF:-1,EUROSPORT 1
+http://www.home66.tv:8000/ab065/kfj065/159
+#EXTINF:-1,EUROSPORT 2
+http://www.home66.tv:8000/ab065/kfj065/160
+#EXTINF:-1,TELEDEPORTE
+http://www.home66.tv:8000/ab065/kfj065/2699
+#EXTINF:-1,REAL MADRID TV
+http://www.home66.tv:8000/ab065/kfj065/6024
+#EXTINF:-1,BARCA TV
+http://www.home66.tv:8000/ab065/kfj065/112
+#EXTINF:-1,GOL TV
+http://www.home66.tv:8000/ab065/kfj065/166
+#EXTINF:-1,SYFY HD
+http://www.home66.tv:8000/ab065/kfj065/264
+#EXTINF:-1,SYFY
+http://www.home66.tv:8000/ab065/kfj065/224
+#EXTINF:-1,FOX LIFE HD
+http://www.home66.tv:8000/ab065/kfj065/164
+#EXTINF:-1,FOX LIFE
+http://www.home66.tv:8000/ab065/kfj065/163
+#EXTINF:-1,AXN WHITE HD
+http://www.home66.tv:8000/ab065/kfj065/242
+#EXTINF:-1,AXN WHITE
+http://www.home66.tv:8000/ab065/kfj065/110
+#EXTINF:-1,AMC HD
+http://www.home66.tv:8000/ab065/kfj065/104
+#EXTINF:-1,AMC
+http://www.home66.tv:8000/ab065/kfj065/103
+#EXTINF:-1,DARK
+http://www.home66.tv:8000/ab065/kfj065/6350
+#EXTINF:-1,Xtreme
+http://www.home66.tv:8000/ab065/kfj065/6349
+#EXTINF:-1,Somos
+http://www.home66.tv:8000/ab065/kfj065/6348
+#EXTINF:-1,National Geographic HD
+http://www.home66.tv:8000/ab065/kfj065/258
+#EXTINF:-1,NATIONAL  GEOGRAPHIC
+http://www.home66.tv:8000/ab065/kfj065/204
+#EXTINF:-1,NAT GEO WILD HD
+http://www.home66.tv:8000/ab065/kfj065/6879
+#EXTINF:-1,NatGeo Wild Spain
+http://www.home66.tv:8000/ab065/kfj065/594
+#EXTINF:-1,ODISEA
+http://www.home66.tv:8000/ab065/kfj065/589
+#EXTINF:-1,HISTORIA
+http://www.home66.tv:8000/ab065/kfj065/167
+#EXTINF:-1,DISCOVERY CHANNEL
+http://www.home66.tv:8000/ab065/kfj065/151
+#EXTINF:-1,DISCOVERY MAX
+http://www.home66.tv:8000/ab065/kfj065/791
+#EXTINF:-1,CRIMEN Y INVES
+http://www.home66.tv:8000/ab065/kfj065/132
+#EXTINF:-1,IBERALIA TV
+http://www.home66.tv:8000/ab065/kfj065/170
+#EXTINF:-1,BLACE
+http://www.home66.tv:8000/ab065/kfj065/101
+#EXTINF:-1,CAZA Y PESCA HD
+http://www.home66.tv:8000/ab065/kfj065/6877
+#EXTINF:-1,CAZA Y PESCA
+http://www.home66.tv:8000/ab065/kfj065/141
+#EXTINF:-1,CAZAVISION
+http://www.home66.tv:8000/ab065/kfj065/6351
+#EXTINF:-1,VIAJAR hd
+http://www.home66.tv:8000/ab065/kfj065/7126
+#EXTINF:-1,VIAJAR
+http://www.home66.tv:8000/ab065/kfj065/4711
+#EXTINF:-1,TOROS TV HD
+http://www.home66.tv:8000/ab065/kfj065/266
+#EXTINF:-1,TOROS
+http://www.home66.tv:8000/ab065/kfj065/233
+#EXTINF:-1,CANAL DECASA
+http://www.home66.tv:8000/ab065/kfj065/136
+#EXTINF:-1,CANAL COCINA
+http://www.home66.tv:8000/ab065/kfj065/3327
+#EXTINF:-1,MEZZO hd
+http://www.home66.tv:8000/ab065/kfj065/7128
+#EXTINF:-1,MEZZO
+http://www.home66.tv:8000/ab065/kfj065/4714
+#EXTINF:-1,Canal Orbe 21
+http://www.home66.tv:8000/ab065/kfj065/7127
+#EXTINF:-1,Musictop
+http://www.home66.tv:8000/ab065/kfj065/5870
+#EXTINF:-1,Sol musica
+http://www.home66.tv:8000/ab065/kfj065/6347
+#EXTINF:-1,TELEHIT
+http://www.home66.tv:8000/ab065/kfj065/6988
+#EXTINF:-1,V2BEAT MUSIC
+http://www.home66.tv:8000/ab065/kfj065/5731
+#EXTINF:-1,DISNEY XD
+http://www.home66.tv:8000/ab065/kfj065/154
+#EXTINF:-1,DISNEY JR
+http://www.home66.tv:8000/ab065/kfj065/153
+#EXTINF:-1,DISNEY CHANNEL HD
+http://www.home66.tv:8000/ab065/kfj065/4705
+#EXTINF:-1,DISNEY CHANNEL
+http://www.home66.tv:8000/ab065/kfj065/152
+#EXTINF:-1,PANDA
+http://www.home66.tv:8000/ab065/kfj065/218
+#EXTINF:-1,NICKELODEONHD
+http://www.home66.tv:8000/ab065/kfj065/260
+#EXTINF:-1,Nickelodeon
+http://www.home66.tv:8000/ab065/kfj065/215
+#EXTINF:-1,NICK JR
+http://www.home66.tv:8000/ab065/kfj065/817
+#EXTINF:-1,BOING
+http://www.home66.tv:8000/ab065/kfj065/131
+#EXTINF:-1,BABY TV
+http://www.home66.tv:8000/ab065/kfj065/111
+#EXTINF:-1,Clan HD
+http://www.home66.tv:8000/ab065/kfj065/5934
+#EXTINF:-1,CLAN TV
+http://www.home66.tv:8000/ab065/kfj065/3722
+#EXTINF:-1,CANAL SUR
+http://www.home66.tv:8000/ab065/kfj065/3812
+#EXTINF:-1,CANAL SUR HD
+http://www.home66.tv:8000/ab065/kfj065/139
+#EXTINF:-1,CASTILLA LA MANCHA
+http://www.home66.tv:8000/ab065/kfj065/2676
+#EXTINF:-1,CANAL EXTREMADURA
+http://www.home66.tv:8000/ab065/kfj065/784
+#EXTINF:-1,A Punt
+http://www.home66.tv:8000/ab065/kfj065/5499
+#EXTINF:-1,TELEMADADRID
+http://www.home66.tv:8000/ab065/kfj065/782
+#EXTINF:-1,TRECE TV
+http://www.home66.tv:8000/ab065/kfj065/5498
+#EXTINF:-1,7 RM HD
+http://www.home66.tv:8000/ab065/kfj065/5500
+#EXTINF:-1,GALICIA TV
+http://www.home66.tv:8000/ab065/kfj065/165
+#EXTINF:-1,EITB
+http://www.home66.tv:8000/ab065/kfj065/777
+#EXTINF:-1,24 HORAS
+http://www.home66.tv:8000/ab065/kfj065/4700
+#EXTINF:-1,HITV
+http://www.home66.tv:8000/ab065/kfj065/6021
+#EXTINF:-1,La Mega Mundial
+http://www.home66.tv:8000/ab065/kfj065/7182
+#EXTINF:-1,Cadena Elite
+http://www.home66.tv:8000/ab065/kfj065/7183
+#EXTINF:-1,Mola TV
+http://www.home66.tv:8000/ab065/kfj065/7185
+#EXTINF:-1,Penthouse Gold HD (18 )
+http://www.home66.tv:8000/ab065/kfj065/6188
+#EXTINF:-1,Penthouse Quickies HD (18 )
+http://www.home66.tv:8000/ab065/kfj065/6187
+#EXTINF:-1,Hustler HD (18 )
+http://www.home66.tv:8000/ab065/kfj065/6197
+#EXTINF:-1,Hustler TV (18 )
+http://www.home66.tv:8000/ab065/kfj065/6176
+#EXTINF:-1,Blue Hustler (18 )
+http://www.home66.tv:8000/ab065/kfj065/6126
+#EXTINF:-1,Private TV HD (18 )
+http://www.home66.tv:8000/ab065/kfj065/6195
+#EXTINF:-1,Sext & Senso (18 )
+http://www.home66.tv:8000/ab065/kfj065/6170
+#EXTINF:-1,Prive TV (18 )
+http://www.home66.tv:8000/ab065/kfj065/6169
+#EXTINF:-1,Dorcel HD (18 )
+http://www.home66.tv:8000/ab065/kfj065/6194
+#EXTINF:-1,Dorcel XXX HD (18 )
+http://www.home66.tv:8000/ab065/kfj065/6193
+#EXTINF:-1,Passie XXX (18 )
+http://www.home66.tv:8000/ab065/kfj065/6174
+#EXTINF:-1,Playhouse (18 )
+http://www.home66.tv:8000/ab065/kfj065/6142
+#EXTINF:-1,Hot TV (18 )
+http://www.home66.tv:8000/ab065/kfj065/6165
+#EXTINF:-1,Play boy
+http://www.home66.tv:8000/ab065/kfj065/6198
+#EXTINF:-1,Pink Erotic (18 )
+http://www.home66.tv:8000/ab065/kfj065/6156
+#EXTINF:-1,Pink Erotic 2 (18 )
+http://www.home66.tv:8000/ab065/kfj065/6155
+#EXTINF:-1,Pink Erotic 3 (18 )
+http://www.home66.tv:8000/ab065/kfj065/6154
+#EXTINF:-1,Pink Erotic 4 (18 )
+http://www.home66.tv:8000/ab065/kfj065/6153
+#EXTINF:-1,Pink Erotic 5 (18 )
+http://www.home66.tv:8000/ab065/kfj065/6152
+#EXTINF:-1,Pink Erotic 6 (18 )
+http://www.home66.tv:8000/ab065/kfj065/6151
+#EXTINF:-1,X-MO ( 18)
+http://www.home66.tv:8000/ab065/kfj065/6117
+#EXTINF:-1,Bajo El Mismo Techo
+http://www.home66.tv:8000/movie/ab065/kfj065/6994.mkv
+#EXTINF:-1,Crímenes Oscuros
+http://www.home66.tv:8000/movie/ab065/kfj065/6995.mkv
+#EXTINF:-1,Deadwood: La Película
+http://www.home66.tv:8000/movie/ab065/kfj065/6996.mkv
+#EXTINF:-1,Dios No Está Muerto: Una Luz En La Oscuridad
+http://www.home66.tv:8000/movie/ab065/kfj065/6997.mkv
+#EXTINF:-1,Feliz Día De Tu Muerte 2
+http://www.home66.tv:8000/movie/ab065/kfj065/6998.mkv
+#EXTINF:-1,Godzilla: Rey De Los Monstruos
+http://www.home66.tv:8000/movie/ab065/kfj065/6999.mkv
+#EXTINF:-1,Kim Posible
+http://www.home66.tv:8000/movie/ab065/kfj065/7000.mkv
+#EXTINF:-1,Mascotas 2
+http://www.home66.tv:8000/movie/ab065/kfj065/7002.mkv
+#EXTINF:-1,Perdiendo El Este
+http://www.home66.tv:8000/movie/ab065/kfj065/7003.mkv
+#EXTINF:-1,Quizás Para Siempre
+http://www.home66.tv:8000/movie/ab065/kfj065/7004.mkv
+#EXTINF:-1,The Axiom
+http://www.home66.tv:8000/movie/ab065/kfj065/7005.mkv
+#EXTINF:-1,The World We Make
+http://www.home66.tv:8000/movie/ab065/kfj065/7006.mp4
+#EXTINF:-1,Todos Los Superhéroes Deben Morir
+http://www.home66.tv:8000/movie/ab065/kfj065/7001.mp4
+#EXTINF:-1,Aquaman
+http://www.home66.tv:8000/movie/ab065/kfj065/7007.mkv
+#EXTINF:-1,Pokémon Detective Pikachu
+http://www.home66.tv:8000/movie/ab065/kfj065/7008.mkv
+#EXTINF:-1,Ralph Rompe Internet
+http://www.home66.tv:8000/movie/ab065/kfj065/7009.mkv
+#EXTINF:-1,Asterix Y Obelix Yla Pocion Magica
+http://www.home66.tv:8000/movie/ab065/kfj065/7010.mkv
+#EXTINF:-1,Blue Iguana
+http://www.home66.tv:8000/movie/ab065/kfj065/7011.mkv
+#EXTINF:-1,Cómo Entrenar A Tu Dragón 3
+http://www.home66.tv:8000/movie/ab065/kfj065/7024.mkv
+#EXTINF:-1,El Cascanueces Y Los Cuatro Reinos
+http://www.home66.tv:8000/movie/ab065/kfj065/7013.avi
+#EXTINF:-1,El Fotógrafo De Mauthausen
+http://www.home66.tv:8000/movie/ab065/kfj065/7014.avi
+#EXTINF:-1,Furie
+http://www.home66.tv:8000/movie/ab065/kfj065/7015.mp4
+#EXTINF:-1,Glass (Cristal)
+http://www.home66.tv:8000/movie/ab065/kfj065/7016.avi
+#EXTINF:-1,Holmes Y Watson
+http://www.home66.tv:8000/movie/ab065/kfj065/7017.mkv
+#EXTINF:-1,I Am Mother
+http://www.home66.tv:8000/movie/ab065/kfj065/7018.mkv
+#EXTINF:-1,La Gran Aventura De Los Lunnis Y El Libro Mágico
+http://www.home66.tv:8000/movie/ab065/kfj065/7019.mkv
+#EXTINF:-1,Miamor Perdido
+http://www.home66.tv:8000/movie/ab065/kfj065/7025.mkv
+#EXTINF:-1,Réplicas
+http://www.home66.tv:8000/movie/ab065/kfj065/7021.mkv
+#EXTINF:-1,Spider-Man: Un Nuevo Universo
+http://www.home66.tv:8000/movie/ab065/kfj065/7026.mkv
+#EXTINF:-1,SuperGrid
+http://www.home66.tv:8000/movie/ab065/kfj065/7027.mkv
+#EXTINF:-1,The Old Man & The Gun
+http://www.home66.tv:8000/movie/ab065/kfj065/7022.mkv
+#EXTINF:-1,Unhinged
+http://www.home66.tv:8000/movie/ab065/kfj065/7012.mkv
+#EXTINF:-1,¿No Es Romántico?
+http://www.home66.tv:8000/movie/ab065/kfj065/7020.mkv
+#EXTINF:-1,Asher
+http://www.home66.tv:8000/movie/ab065/kfj065/7029.mkv
+#EXTINF:-1,Destroyer  Una Mujer Herida
+http://www.home66.tv:8000/movie/ab065/kfj065/7030.mkv
+#EXTINF:-1,El Caballero De Las Sombras Entre Yin Y Yang
+http://www.home66.tv:8000/movie/ab065/kfj065/7033.mkv
+#EXTINF:-1,Golden Job
+http://www.home66.tv:8000/movie/ab065/kfj065/7031.mkv
+#EXTINF:-1,La Escuela De La Vida
+http://www.home66.tv:8000/movie/ab065/kfj065/7032.mkv
+#EXTINF:-1,Una Cuestión De Género
+http://www.home66.tv:8000/movie/ab065/kfj065/7034.mkv
+#EXTINF:-1,Beats
+http://www.home66.tv:8000/movie/ab065/kfj065/7035.mkv
+#EXTINF:-1,Cambio De Reinas
+http://www.home66.tv:8000/movie/ab065/kfj065/7036.mkv
+#EXTINF:-1,High Life
+http://www.home66.tv:8000/movie/ab065/kfj065/7037.mkv
+#EXTINF:-1,Podrias Perdonarme Algun Dia
+http://www.home66.tv:8000/movie/ab065/kfj065/7038.mkv
+#EXTINF:-1,The Dark
+http://www.home66.tv:8000/movie/ab065/kfj065/7039.mkv
+#EXTINF:-1,The Prodigy
+http://www.home66.tv:8000/movie/ab065/kfj065/7040.mkv
+#EXTINF:-1,Capitana Marvel
+http://www.home66.tv:8000/movie/ab065/kfj065/7042.mp4
+#EXTINF:-1,Superlópez
+http://www.home66.tv:8000/movie/ab065/kfj065/7041.mp4
+#EXTINF:-1,Mula
+http://www.home66.tv:8000/movie/ab065/kfj065/7043.mp4
+#EXTINF:-1,Robin Hood
+http://www.home66.tv:8000/movie/ab065/kfj065/7044.mp4
+#EXTINF:-1,Alien Warfare
+http://www.home66.tv:8000/movie/ab065/kfj065/7045.mp4
+#EXTINF:-1,Animales Fantásticos: Los Crímenes De Grindelwald
+http://www.home66.tv:8000/movie/ab065/kfj065/7048.mp4
+#EXTINF:-1,Dragon Ball Super: Broly
+http://www.home66.tv:8000/movie/ab065/kfj065/7047.mp4
+#EXTINF:-1,El Grinch
+http://www.home66.tv:8000/movie/ab065/kfj065/7053.mp4
+#EXTINF:-1,El Pájaro Loco: La Película
+http://www.home66.tv:8000/movie/ab065/kfj065/7056.mp4
+#EXTINF:-1,El Pasajero
+http://www.home66.tv:8000/movie/ab065/kfj065/7052.mp4
+#EXTINF:-1,El Rascacielos
+http://www.home66.tv:8000/movie/ab065/kfj065/7051.mp4
+#EXTINF:-1,El Regreso De Mary Poppins
+http://www.home66.tv:8000/movie/ab065/kfj065/7050.mp4
+#EXTINF:-1,Gru,  Mi Villano Favorito 2: Mini Movies
+http://www.home66.tv:8000/movie/ab065/kfj065/7046.mp4
+#EXTINF:-1,Pesadillas 2: Noche De Halloween
+http://www.home66.tv:8000/movie/ab065/kfj065/7049.mp4
+#EXTINF:-1,Triple Frontera
+http://www.home66.tv:8000/movie/ab065/kfj065/7055.mp4
+#EXTINF:-1,¿Quién Está Matando A Los Moñecos?
+http://www.home66.tv:8000/movie/ab065/kfj065/7054.mp4
+#EXTINF:-1,Bienvenidos A Marwen
+http://www.home66.tv:8000/movie/ab065/kfj065/7058.mp4
+#EXTINF:-1,El Canto Del Lobo
+http://www.home66.tv:8000/movie/ab065/kfj065/7057.mp4
+#EXTINF:-1,El Hijo D
+http://www.home66.tv:8000/movie/ab065/kfj065/7059.mkv
+#EXTINF:-1,Shaft
+http://www.home66.tv:8000/movie/ab065/kfj065/7061.mp4
+#EXTINF:-1,Van Gogh, A Las Puertas De La Eternidad
+http://www.home66.tv:8000/movie/ab065/kfj065/7060.mp4
+#EXTINF:-1,Cementerio De Animales
+http://www.home66.tv:8000/movie/ab065/kfj065/7117.mp4
+#EXTINF:-1,High Life
+http://www.home66.tv:8000/movie/ab065/kfj065/7116.mp4
+#EXTINF:-1,Crypto
+http://www.home66.tv:8000/movie/ab065/kfj065/7129.mp4
+#EXTINF:-1,El Blues De Beale Street
+http://www.home66.tv:8000/movie/ab065/kfj065/7131.mp4
+#EXTINF:-1,Galveston
+http://www.home66.tv:8000/movie/ab065/kfj065/7130.mp4
+#EXTINF:-1,Miss Bala
+http://www.home66.tv:8000/movie/ab065/kfj065/7132.mp4
+#EXTINF:-1,Nosotros
+http://www.home66.tv:8000/movie/ab065/kfj065/7133.mp4
+#EXTINF:-1,70 Binladens
+http://www.home66.tv:8000/movie/ab065/kfj065/7134.mkv
+#EXTINF:-1,Dolor Y Gloria
+http://www.home66.tv:8000/movie/ab065/kfj065/7135.avi
+#EXTINF:-1,El Gordo Y El Flaco (Stan & Ollie)
+http://www.home66.tv:8000/movie/ab065/kfj065/7136.mkv
+#EXTINF:-1,El Hombre Que Mató A Hitler Y Después Al Bigfoot
+http://www.home66.tv:8000/movie/ab065/kfj065/7137.mkv
+#EXTINF:-1,El Niño Que Pudo Ser Rey
+http://www.home66.tv:8000/movie/ab065/kfj065/7138.mkv
+#EXTINF:-1,Ligar En La Era Digital
+http://www.home66.tv:8000/movie/ab065/kfj065/7141.mkv
+#EXTINF:-1,Prospect
+http://www.home66.tv:8000/movie/ab065/kfj065/7139.mkv
+#EXTINF:-1,Spider-Man: Lejos De Casa
+http://www.home66.tv:8000/movie/ab065/kfj065/7140.mkv
+#EXTINF:-1,Alita: Ángel De Combate
+http://www.home66.tv:8000/movie/ab065/kfj065/7142.mkv
+#EXTINF:-1,Ártico
+http://www.home66.tv:8000/movie/ab065/kfj065/7143.mkv
+#EXTINF:-1,De Tonta, Nada
+http://www.home66.tv:8000/movie/ab065/kfj065/7144.mkv
+#EXTINF:-1,Extremadamente Cruel, Malvado Y Perverso
+http://www.home66.tv:8000/movie/ab065/kfj065/7145.mkv
+#EXTINF:-1,The Titan
+http://www.home66.tv:8000/movie/ab065/kfj065/7146.mkv
+#EXTINF:-1,Todos A Una
+http://www.home66.tv:8000/movie/ab065/kfj065/7147.mkv
+#EXTINF:-1,4 Latas
+http://www.home66.tv:8000/movie/ab065/kfj065/7148.mkv
+#EXTINF:-1,Doctor Strange
+http://www.home66.tv:8000/movie/ab065/kfj065/7151.mp4
+#EXTINF:-1,El Secuestro De Stella
+http://www.home66.tv:8000/movie/ab065/kfj065/7150.mkv
+#EXTINF:-1,La Momia
+http://www.home66.tv:8000/movie/ab065/kfj065/7154.mp4
+#EXTINF:-1,Pacific Rim: Insurrección
+http://www.home66.tv:8000/movie/ab065/kfj065/7152.mp4
+#EXTINF:-1,Piratas Del Caribe: La Venganza De Salazar
+http://www.home66.tv:8000/movie/ab065/kfj065/7153.mp4
+#EXTINF:-1,Point Blank
+http://www.home66.tv:8000/movie/ab065/kfj065/7149.mkv
+#EXTINF:-1,X-Men: Apocalipsis
+http://www.home66.tv:8000/movie/ab065/kfj065/7155.mp4
+#EXTINF:-1,El Regreso De Mary Poppins
+http://www.home66.tv:8000/movie/ab065/kfj065/7156.mp4
+#EXTINF:-1,¡Shazam!
+http://www.home66.tv:8000/movie/ab065/kfj065/7157.mp4
+#EXTINF:-1,Ay, Mi Madre!
+http://www.home66.tv:8000/movie/ab065/kfj065/7158.mkv
+#EXTINF:-1,Bosque Maldito
+http://www.home66.tv:8000/movie/ab065/kfj065/7159.mkv
+#EXTINF:-1,Donnybrook
+http://www.home66.tv:8000/movie/ab065/kfj065/7160.mkv
+#EXTINF:-1,Dumbo
+http://www.home66.tv:8000/movie/ab065/kfj065/7168.mp4
+#EXTINF:-1,El Caballero De Las Sombras
+http://www.home66.tv:8000/movie/ab065/kfj065/7161.mkv
+#EXTINF:-1,El Pionero
+http://www.home66.tv:8000/movie/ab065/kfj065/7162.mkv
+#EXTINF:-1,Háblame De Ti
+http://www.home66.tv:8000/movie/ab065/kfj065/7163.mkv
+#EXTINF:-1,Invencible
+http://www.home66.tv:8000/movie/ab065/kfj065/7170.mp4
+#EXTINF:-1,La Bailarina Y El Pianista
+http://www.home66.tv:8000/movie/ab065/kfj065/7164.avi
+#EXTINF:-1,Sargento Stubby, Un Héroe Muy Especial
+http://www.home66.tv:8000/movie/ab065/kfj065/7165.mkv
+#EXTINF:-1,Secret Obsession
+http://www.home66.tv:8000/movie/ab065/kfj065/7169.mp4
+#EXTINF:-1,Serenity
+http://www.home66.tv:8000/movie/ab065/kfj065/7166.mkv
+#EXTINF:-1,The Intruder (El Ocupante)
+http://www.home66.tv:8000/movie/ab065/kfj065/7167.mkv
+#EXTINF:-1,El Hombre Que Mató A Hitler Y Después Al Bigfoot
+http://www.home66.tv:8000/movie/ab065/kfj065/7174.mp4
+#EXTINF:-1,Más Allá De La Esperanza
+http://www.home66.tv:8000/movie/ab065/kfj065/7172.mkv
+#EXTINF:-1,Pequeño Gran Problema
+http://www.home66.tv:8000/movie/ab065/kfj065/7173.mkv
+#EXTINF:-1,First Man (El Primer Hombre)
+http://www.home66.tv:8000/movie/ab065/kfj065/7179.mp4
+#EXTINF:-1,La Hija Del Lobo
+http://www.home66.tv:8000/movie/ab065/kfj065/7176.mkv
+#EXTINF:-1,Lejos De Praga
+http://www.home66.tv:8000/movie/ab065/kfj065/7177.mkv
+#EXTINF:-1,Taxi A Gilbraltar
+http://www.home66.tv:8000/movie/ab065/kfj065/7178.mkv
+#EXTINF:-1,Viudas
+http://www.home66.tv:8000/movie/ab065/kfj065/7180.mp4
+#EXTINF:-1,El Secuestro De Stella
+http://www.home66.tv:8000/movie/ab065/kfj065/7187.mp4
+#EXTINF:-1,La Sonrisa Etrusca
+http://www.home66.tv:8000/movie/ab065/kfj065/7188.mp4
+#EXTINF:-1,Robert Reborn
+http://www.home66.tv:8000/movie/ab065/kfj065/7186.mkv
+#EXTINF:-1,Chicas Con Pelotas
+http://www.home66.tv:8000/movie/ab065/kfj065/7190.mkv
+#EXTINF:-1,Conociendo A Astrid
+http://www.home66.tv:8000/movie/ab065/kfj065/7191.mkv
+#EXTINF:-1,Sobre Ruedas
+http://www.home66.tv:8000/movie/ab065/kfj065/7192.mp4
+#EXTINF:-1,Vengadores: Endgame
+http://www.home66.tv:8000/movie/ab065/kfj065/7189.mp4
+#EXTINF:-1,Boi
+http://www.home66.tv:8000/movie/ab065/kfj065/7195.mkv
+#EXTINF:-1,Cold Persuit
+http://www.home66.tv:8000/movie/ab065/kfj065/7196.mkv
+#EXTINF:-1,Critters ¡Al Ataque!
+http://www.home66.tv:8000/movie/ab065/kfj065/7197.mkv
+#EXTINF:-1,El último Guerrero
+http://www.home66.tv:8000/movie/ab065/kfj065/7198.mkv
+#EXTINF:-1,La Profesora De Parvularios
+http://www.home66.tv:8000/movie/ab065/kfj065/7199.mkv
+#EXTINF:-1,Mia Y El León Blanco
+http://www.home66.tv:8000/movie/ab065/kfj065/7204.mp4
+#EXTINF:-1,Rescate En El Mar Rojo
+http://www.home66.tv:8000/movie/ab065/kfj065/7200.mkv
+#EXTINF:-1,Royal Hearts
+http://www.home66.tv:8000/movie/ab065/kfj065/7201.mkv
+#EXTINF:-1,Territorio Escualo
+http://www.home66.tv:8000/movie/ab065/kfj065/7202.mkv
+#EXTINF:-1,Why Hide?
+http://www.home66.tv:8000/movie/ab065/kfj065/7203.mkv
+#EXTINF:-1,Dominios Oscuros
+http://www.home66.tv:8000/movie/ab065/kfj065/7205.mkv
+#EXTINF:-1,El Día Que Vendrá
+http://www.home66.tv:8000/movie/ab065/kfj065/7206.mkv
+#EXTINF:-1,Fast & Furious: Hobbs & Shaw
+http://www.home66.tv:8000/movie/ab065/kfj065/7209.mkv
+#EXTINF:-1,Más Que Madres
+http://www.home66.tv:8000/movie/ab065/kfj065/7207.mkv
+#EXTINF:-1,Peleando En Familia
+http://www.home66.tv:8000/movie/ab065/kfj065/7208.mkv
+#EXTINF:-1,La alfombra mágica
+http://www.home66.tv:8000/movie/ab065/kfj065/7210.mkv
+#EXTINF:-1,Lifechanger
+http://www.home66.tv:8000/movie/ab065/kfj065/7211.mkv
+#EXTINF:-1,The Bromley  Boys
+http://www.home66.tv:8000/movie/ab065/kfj065/7212.mkv
+#EXTINF:-1,Bikes
+http://www.home66.tv:8000/movie/ab065/kfj065/7214.mkv
+#EXTINF:-1,El Rey León
+http://www.home66.tv:8000/movie/ab065/kfj065/7221.mkv
+#EXTINF:-1,La ciudad sin ley
+http://www.home66.tv:8000/movie/ab065/kfj065/7215.mkv
+#EXTINF:-1,La espía roja
+http://www.home66.tv:8000/movie/ab065/kfj065/7216.mkv
+#EXTINF:-1,La Llorona
+http://www.home66.tv:8000/movie/ab065/kfj065/7218.mkv
+#EXTINF:-1,Llenos de vida
+http://www.home66.tv:8000/movie/ab065/kfj065/7217.mkv
+#EXTINF:-1,Terminal
+http://www.home66.tv:8000/movie/ab065/kfj065/7220.mkv
+#EXTINF:-1,Un pueblo y su rey
+http://www.home66.tv:8000/movie/ab065/kfj065/7222.mkv
+#EXTINF:-1,¿Qué te juegas?
+http://www.home66.tv:8000/movie/ab065/kfj065/7219.mkv
+#EXTINF:-1,Capsized: Blood in the Water
+http://www.home66.tv:8000/movie/ab065/kfj065/7223.avi
+#EXTINF:-1,El parque mágico
+http://www.home66.tv:8000/movie/ab065/kfj065/7227.mkv
+#EXTINF:-1,Gracias a Dios
+http://www.home66.tv:8000/movie/ab065/kfj065/7224.mkv
+#EXTINF:-1,Mirai, mi hermana pequeña
+http://www.home66.tv:8000/movie/ab065/kfj065/7225.mkv
+#EXTINF:-1,Monsters at Large
+http://www.home66.tv:8000/movie/ab065/kfj065/7226.mkv
+#EXTINF:-1,Plan Escape 2
+http://www.home66.tv:8000/movie/ab065/kfj065/7228.mkv
+#EXTINF:-1,Doce hombres sin piedad
+http://www.home66.tv:8000/movie/ab065/kfj065/7235.mkv
+#EXTINF:-1,Érase una vez en Hollywood
+http://www.home66.tv:8000/movie/ab065/kfj065/7233.mkv
+#EXTINF:-1,La pequeña Suiza
+http://www.home66.tv:8000/movie/ab065/kfj065/7232.mkv
+#EXTINF:-1,Sextillizos
+http://www.home66.tv:8000/movie/ab065/kfj065/7234.mkv
+#EXTINF:-1,Hotel Transilvania 3: Unas vacaciones monstruosas
+http://www.home66.tv:8000/movie/ab065/kfj065/7238.mp4
+#EXTINF:-1,Zootrópolis
+http://www.home66.tv:8000/movie/ab065/kfj065/7239.mp4
+#EXTINF:-1,Rocketman
+http://www.home66.tv:8000/movie/ab065/kfj065/7237.mkv
+#EXTINF:-1,ACTIVA FM
+http://www.home66.tv:8000/ab065/kfj065/5173
+#EXTINF:-1,EUROPA FM
+http://www.home66.tv:8000/ab065/kfj065/5174
+#EXTINF:-1,CADENA 100
+http://www.home66.tv:8000/ab065/kfj065/5176
+#EXTINF:-1,LOS 40
+http://www.home66.tv:8000/ab065/kfj065/5175
+#EXTINF:-1,MAXIMA FM
+http://www.home66.tv:8000/ab065/kfj065/5177
+#EXTINF:-1,RADIO OLE
+http://www.home66.tv:8000/ab065/kfj065/5178
+#EXTINF:-1,CADENA DIAL
+http://www.home66.tv:8000/ab065/kfj065/5179
+#EXTINF:-1,CHANQUETE FM
+http://www.home66.tv:8000/ab065/kfj065/5185
+#EXTINF:-1,FLAIX FM
+http://www.home66.tv:8000/ab065/kfj065/5181
+#EXTINF:-1,HIT FM
+http://www.home66.tv:8000/ab065/kfj065/5183
+#EXTINF:-1,IBIZA GLOBAR RADIO
+http://www.home66.tv:8000/ab065/kfj065/5180
+#EXTINF:-1,LOCA FM
+http://www.home66.tv:8000/ab065/kfj065/5184
+#EXTINF:-1,RADIO FLAIXBAC
+http://www.home66.tv:8000/ab065/kfj065/5343
+#EXTINF:-1,Dynamis Radio
+http://www.home66.tv:8000/ab065/kfj065/5572
+#EXTINF:-1,Muy Buena
+http://www.home66.tv:8000/ab065/kfj065/5550
+#EXTINF:-1,Biquini fm
+http://www.home66.tv:8000/ab065/kfj065/5552
+#EXTINF:-1,Esencia fm
+http://www.home66.tv:8000/ab065/kfj065/5553
+#EXTINF:-1,Gold FM
+http://www.home66.tv:8000/ab065/kfj065/5554
+#EXTINF:-1,La Flamenca
+http://www.home66.tv:8000/ab065/kfj065/5556
+#EXTINF:-1,La mega
+http://www.home66.tv:8000/ab065/kfj065/5551
+#EXTINF:-1,La que suena
+http://www.home66.tv:8000/ab065/kfj065/5557
+#EXTINF:-1,Rockstar
+http://www.home66.tv:8000/ab065/kfj065/5555
+#EXTINF:-1,FRANCEINFO
+http://www.home66.tv:8000/ab065/kfj065/6969
+#EXTINF:-1,TF1 HD
+http://www.home66.tv:8000/ab065/kfj065/6983
+#EXTINF:-1,FRANCE 
+http://www.home66.tv:8000/ab065/kfj065/6968
+#EXTINF:-1,FRANCE 2 HD
+http://www.home66.tv:8000/ab065/kfj065/6982
+#EXTINF:-1,FRANCE 3 HD
+http://www.home66.tv:8000/ab065/kfj065/6981
+#EXTINF:-1,FRANCE 4 HD
+http://www.home66.tv:8000/ab065/kfj065/6980
+#EXTINF:-1,FRANCE 5 HD
+http://www.home66.tv:8000/ab065/kfj065/6979
+#EXTINF:-1,FRANCE 24
+http://www.home66.tv:8000/ab065/kfj065/6967
+#EXTINF:-1,6TER
+http://www.home66.tv:8000/ab065/kfj065/6963
+#EXTINF:-1,M6 HD
+http://www.home66.tv:8000/ab065/kfj065/6978
+#EXTINF:-1,ARTE HD
+http://www.home66.tv:8000/ab065/kfj065/6977
+#EXTINF:-1,C8 HD
+http://www.home66.tv:8000/ab065/kfj065/6976
+#EXTINF:-1,W9 HD
+http://www.home66.tv:8000/ab065/kfj065/6975
+#EXTINF:-1,TMC HD
+http://www.home66.tv:8000/ab065/kfj065/6974
+#EXTINF:-1,NRJ12
+http://www.home66.tv:8000/ab065/kfj065/6972
+#EXTINF:-1,L'EQUIPE 21
+http://www.home66.tv:8000/ab065/kfj065/6971
+#EXTINF:-1,GULLI
+http://www.home66.tv:8000/ab065/kfj065/6970
+#EXTINF:-1,CSTAR
+http://www.home66.tv:8000/ab065/kfj065/6966
+#EXTINF:-1,CH?RIE 25
+http://www.home66.tv:8000/ab065/kfj065/6965
+#EXTINF:-1,BFM TV
+http://www.home66.tv:8000/ab065/kfj065/6964
+#EXTINF:-1,RMC SPORT 1 HD
+http://www.home66.tv:8000/ab065/kfj065/6987
+#EXTINF:-1,RMC SPORT 2 HD
+http://www.home66.tv:8000/ab065/kfj065/6986
+#EXTINF:-1,RMC SPORT 3 HD
+http://www.home66.tv:8000/ab065/kfj065/6985
+#EXTINF:-1,RMC SPORT 4 HD
+http://www.home66.tv:8000/ab065/kfj065/6984
+#EXTINF:-1,RMC D?COUVERTE
+http://www.home66.tv:8000/ab065/kfj065/6973
+#EXTINF:-1,NPO 1 HD
+http://www.home66.tv:8000/ab065/kfj065/6310
+#EXTINF:-1,NPO 2 HD
+http://www.home66.tv:8000/ab065/kfj065/6311
+#EXTINF:-1,NPO 3 HD
+http://www.home66.tv:8000/ab065/kfj065/6312
+#EXTINF:-1,NPO POLITIEK
+http://www.home66.tv:8000/ab065/kfj065/6257
+#EXTINF:-1,NPO ZAP EXTRA
+http://www.home66.tv:8000/ab065/kfj065/6258
+#EXTINF:-1,NPO NIEUWS
+http://www.home66.tv:8000/ab065/kfj065/6313
+#EXTINF:-1,NET 5 HD
+http://www.home66.tv:8000/ab065/kfj065/6306
+#EXTINF:-1,100% NL TV
+http://www.home66.tv:8000/ab065/kfj065/6335
+#EXTINF:-1,192TV
+http://www.home66.tv:8000/ab065/kfj065/6336
+#EXTINF:-1,24 KITCHEN HD
+http://www.home66.tv:8000/ab065/kfj065/6337
+#EXTINF:-1,ANIMAL PLANET HD
+http://www.home66.tv:8000/ab065/kfj065/6338
+#EXTINF:-1,BBC FIRST HD
+http://www.home66.tv:8000/ab065/kfj065/6340
+#EXTINF:-1,BOOMERANG
+http://www.home66.tv:8000/ab065/kfj065/6341
+#EXTINF:-1,BRAVA
+http://www.home66.tv:8000/ab065/kfj065/6342
+#EXTINF:-1,CANVAS HD
+http://www.home66.tv:8000/ab065/kfj065/6343
+#EXTINF:-1,CARTOON NETWORK
+http://www.home66.tv:8000/ab065/kfj065/6344
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://www.home66.tv:8000/ab065/kfj065/6314
+#EXTINF:-1,DANCE TRIPPIN
+http://www.home66.tv:8000/ab065/kfj065/6315
+#EXTINF:-1,DEN HAAG TV
+http://www.home66.tv:8000/ab065/kfj065/6316
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://www.home66.tv:8000/ab065/kfj065/6318
+#EXTINF:-1,DISCOVERY WORLD
+http://www.home66.tv:8000/ab065/kfj065/6319
+#EXTINF:-1,DJAZZ TV
+http://www.home66.tv:8000/ab065/kfj065/6320
+#EXTINF:-1,EEN HD
+http://www.home66.tv:8000/ab065/kfj065/6322
+#EXTINF:-1,EXTREME SPORTS CHANNEL
+http://www.home66.tv:8000/ab065/kfj065/6324
+#EXTINF:-1,FAMILY 7
+http://www.home66.tv:8000/ab065/kfj065/6325
+#EXTINF:-1,FILM 1 ACTION HD
+http://www.home66.tv:8000/ab065/kfj065/6326
+#EXTINF:-1,FILM 1 DRAMA HD
+http://www.home66.tv:8000/ab065/kfj065/6327
+#EXTINF:-1,FILM 1 FAMILY HD
+http://www.home66.tv:8000/ab065/kfj065/6328
+#EXTINF:-1,FILM 1 PREMIERE HD
+http://www.home66.tv:8000/ab065/kfj065/6329
+#EXTINF:-1,HISTORY HD
+http://www.home66.tv:8000/ab065/kfj065/6299
+#EXTINF:-1,HORSE & COUNTRY TV HD
+http://www.home66.tv:8000/ab065/kfj065/6300
+#EXTINF:-1,ID HD
+http://www.home66.tv:8000/ab065/kfj065/6301
+#EXTINF:-1,KETNET
+http://www.home66.tv:8000/ab065/kfj065/6302
+#EXTINF:-1,MTV BRAND NEW
+http://www.home66.tv:8000/ab065/kfj065/6303
+#EXTINF:-1,MTV MUSIC 24
+http://www.home66.tv:8000/ab065/kfj065/6305
+#EXTINF:-1,PEBBLE
+http://www.home66.tv:8000/ab065/kfj065/6264
+#EXTINF:-1,RTL 4 HD
+http://www.home66.tv:8000/ab065/kfj065/6265
+#EXTINF:-1,RTL 5 HD
+http://www.home66.tv:8000/ab065/kfj065/6266
+#EXTINF:-1,RTL 7 HD
+http://www.home66.tv:8000/ab065/kfj065/6267
+#EXTINF:-1,RTL 8 HD
+http://www.home66.tv:8000/ab065/kfj065/6268
+#EXTINF:-1,RTL CRIME HD
+http://www.home66.tv:8000/ab065/kfj065/6269
+#EXTINF:-1,RTL LOUNGE HD
+http://www.home66.tv:8000/ab065/kfj065/6270
+#EXTINF:-1,RTL TELEKIDS HD
+http://www.home66.tv:8000/ab065/kfj065/6271
+#EXTINF:-1,RTL Z
+http://www.home66.tv:8000/ab065/kfj065/6272
+#EXTINF:-1,RTV 7
+http://www.home66.tv:8000/ab065/kfj065/6273
+#EXTINF:-1,RTV UTRECHT
+http://www.home66.tv:8000/ab065/kfj065/6274
+#EXTINF:-1,SBS 6 HD
+http://www.home66.tv:8000/ab065/kfj065/6275
+#EXTINF:-1,SBS 9 HD
+http://www.home66.tv:8000/ab065/kfj065/6276
+#EXTINF:-1,SLAM!
+http://www.home66.tv:8000/ab065/kfj065/6277
+#EXTINF:-1,SPIKE
+http://www.home66.tv:8000/ab065/kfj065/6278
+#EXTINF:-1,TV ORANJE
+http://www.home66.tv:8000/ab065/kfj065/6284
+#EXTINF:-1,TV RIJNMOND
+http://www.home66.tv:8000/ab065/kfj065/6285
+#EXTINF:-1,TV WEST
+http://www.home66.tv:8000/ab065/kfj065/6286
+#EXTINF:-1,VERONICA/DISNEYXD HD
+http://www.home66.tv:8000/ab065/kfj065/6287
+#EXTINF:-1,VICELAND HD
+http://www.home66.tv:8000/ab065/kfj065/6289
+#EXTINF:-1,ZIGGO SPORT DOCU HD
+http://www.home66.tv:8000/ab065/kfj065/6291
+#EXTINF:-1,ZIGGO SPORT EXTRA HD
+http://www.home66.tv:8000/ab065/kfj065/6292
+#EXTINF:-1,ZIGGO SPORT GOLF HD
+http://www.home66.tv:8000/ab065/kfj065/6293
+#EXTINF:-1,ZIGGO SPORT HD
+http://www.home66.tv:8000/ab065/kfj065/6294
+#EXTINF:-1,ZIGGO SPORT RACING HD
+http://www.home66.tv:8000/ab065/kfj065/6295
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://www.home66.tv:8000/ab065/kfj065/6296
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://www.home66.tv:8000/ab065/kfj065/6297
+#EXTINF:-1,FOX SPORTS 1 HD EREDIVISIE
+http://www.home66.tv:8000/ab065/kfj065/6330
+#EXTINF:-1,FOX SPORTS 2 HD
+http://www.home66.tv:8000/ab065/kfj065/6331
+#EXTINF:-1,FOX SPORTS 4 HD
+http://www.home66.tv:8000/ab065/kfj065/6333
+#EXTINF:-1,FOX SPORTS 5 HD
+http://www.home66.tv:8000/ab065/kfj065/6334
+#EXTINF:-1,FOX SPORTS 6 HD
+http://www.home66.tv:8000/ab065/kfj065/6298
+#EXTINF:-1,UK: Sky Sport Action
+http://www.home66.tv:8000/ab065/kfj065/6915
+#EXTINF:-1,UK: Sky Sport Action HD
+http://www.home66.tv:8000/ab065/kfj065/6908
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://www.home66.tv:8000/ab065/kfj065/6904
+#EXTINF:-1,UK: Sky Sport Cricket
+http://www.home66.tv:8000/ab065/kfj065/6916
+#EXTINF:-1,UK: Sky Sport Cricket HD
+http://www.home66.tv:8000/ab065/kfj065/6909
+#EXTINF:-1,UK: Sky Sport F1
+http://www.home66.tv:8000/ab065/kfj065/6912
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://www.home66.tv:8000/ab065/kfj065/6903
+#EXTINF:-1,UK: Sky Sport Football HD
+http://www.home66.tv:8000/ab065/kfj065/6905
+#EXTINF:-1,UK: Sky Sport Golf
+http://www.home66.tv:8000/ab065/kfj065/6914
+#EXTINF:-1,UK: Sky Sport Golf HD
+http://www.home66.tv:8000/ab065/kfj065/6907
+#EXTINF:-1,UK: Sky Sport Main Events
+http://www.home66.tv:8000/ab065/kfj065/6917
+#EXTINF:-1,UK: Sky Sport Main Events HD
+http://www.home66.tv:8000/ab065/kfj065/6910
+#EXTINF:-1,UK: Sky Sport News
+http://www.home66.tv:8000/ab065/kfj065/6911
+#EXTINF:-1,UK: Sky Sport PL
+http://www.home66.tv:8000/ab065/kfj065/6913
+#EXTINF:-1,UK: Sky Sport Premier League HD
+http://www.home66.tv:8000/ab065/kfj065/6906
+#EXTINF:-1,UK: Sky Sports MIX
+http://www.home66.tv:8000/ab065/kfj065/6901
+#EXTINF:-1,UK: Sky Sports News HD
+http://www.home66.tv:8000/ab065/kfj065/6902
+#EXTINF:-1,UK: BT Sports 1 HD
+http://www.home66.tv:8000/ab065/kfj065/6900
+#EXTINF:-1,UK: BT Sports 2 HD
+http://www.home66.tv:8000/ab065/kfj065/6899
+#EXTINF:-1,UK: BT Sports 3 HD
+http://www.home66.tv:8000/ab065/kfj065/6898
+#EXTINF:-1,UK: BT Sport Extra
+http://www.home66.tv:8000/ab065/kfj065/6892
+#EXTINF:-1,UK: BT Sport Extra 1
+http://www.home66.tv:8000/ab065/kfj065/6958
+#EXTINF:-1,UK: BT Sport Extra 2
+http://www.home66.tv:8000/ab065/kfj065/6957
+#EXTINF:-1,UK: BT Sport Extra 3
+http://www.home66.tv:8000/ab065/kfj065/6956
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://www.home66.tv:8000/ab065/kfj065/6893
+#EXTINF:-1,UK: Eir Sport 1
+http://www.home66.tv:8000/ab065/kfj065/6883
+#EXTINF:-1,UK: Eir Sport 1 HD
+http://www.home66.tv:8000/ab065/kfj065/6897
+#EXTINF:-1,UK: Eir Sport 2
+http://www.home66.tv:8000/ab065/kfj065/6882
+#EXTINF:-1,UK: EuroSport 1 HD
+http://www.home66.tv:8000/ab065/kfj065/6885
+#EXTINF:-1,UK: Box Nation HD
+http://www.home66.tv:8000/ab065/kfj065/6886
