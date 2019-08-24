@@ -8,6 +8,38 @@ https://useast-prod-live-delivery-ooyala-com.akamaized.net/out/u/229ymkag04945/1
 #EXTM3U8
 #EXTINF:-2, ECUAVISA
 https://youtvplay.com/static/wowza/test/hls/20001/360p/playlist.m3u8?360
+#EXTINF:0 tvg-id="ext" group-title="USA CHANNELS",.VIP.USA::Gol TV HD
+http://latinotvglobal.com:47985/gtvd/dan10/15983
+#EXTINF:-1,HD :SUR_GOL TV_ECUADOR
+http://latinotvglobal.com:47985/gtvd/dan10/9406
+#EXTINF:-1,SD :SUR_Ecuador TV
+http://latinotvglobal.com:47985/gtvd/dan10/9395
+
+#EXTINF:-1,SD :SUR_Ecuavisa
+http://latinotvglobal.com:47985/gtvd/dan10/9394 
+#EXTINF:-1,:ECUAVISA HD
+http://latinotvglobal.com:47985/gtvd/dan10/8986
+#EXTINF:-1,:RTS ECUADOR
+http://latinotvglobal.com:47985/gtvd/dan10/8985
+#EXTINF:-1,:TC ECUADOR
+http://latinotvglobal.com:47985/gtvd/dan10/8992
+#EXTINF:-1,TC HD ecuador
+http://latinotvglobal.com:47985/gtvd/dan10/12377
+#EXTINF:-1,ECUADOR CANAL UNO RESPALDO
+http://latinotvglobal.com:47985/gtvd/dan10/27010
+
+#EXTINF:-1,ECUADOR ECUAVISA RESPALDO
+http://latinotvglobal.com:47985/gtvd/dan10/27009
+
+#EXTINF:-1,ECUADOR TELE AMAZONAS RESPALDO
+http://latinotvglobal.com:47985/gtvd/dan10/27008
+#EXTINF:-1,COPA ECUADOR ( solo eventos )
+http://latinotvglobal.com:47985/gtvd/dan10/28478
+#EXTINF:-1,SD :CANAL UNO ECUADOR
+http://latinotvglobal.com:47985/gtvd/dan10/9460
+
+#EXTINF:-1,SD :SUR_Canal Uno TV Ecua
+http://latinotvglobal.com:47985/gtvd/dan10/9414
 #EXTM3U
 #EXTINF:-1,A24
 http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/642
