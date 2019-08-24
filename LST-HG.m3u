@@ -1,5 +1,14 @@
 #EXTM3U  
 #EXTINF:-1,LISTA HG
+#EXTINF:-1,TC 
+https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w1073191730.m3u8
+#EXTM3U8
+#EXTINF:-0,GOL TV
+https://useast-prod-live-delivery-ooyala-com.akamaized.net/out/u/229ymkag04945/110304/h5Z2E4ZzE6UaDwbGfX-zKWWN5bLrKb-B/cs/44aab9b2754480b93aa47f0104c593a_5.m3u8?m=1564645454
+#EXTM3U8
+#EXTINF:-2, ECUAVISA
+https://youtvplay.com/static/wowza/test/hls/20001/360p/playlist.m3u8?360
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Sport",GOL TV
 http://185.246.209.109:8080/GOL_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="",Canela TV
